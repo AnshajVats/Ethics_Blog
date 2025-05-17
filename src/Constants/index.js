@@ -33,72 +33,72 @@ export const navLinks = [
 const projects = [
   {
     name: "Week 1",
-    description: "Introduction",
+    description: "Don't Be A Jerk",
     image: Week_1,
   },
   {
     name: "Week 2",
-    description: "Ethics & Writing",
+    description: "Question Everything",
     image: Week_2,
   },
   {
     name: "Week 3",
-    description: "The Ethics of Future Technology",
+    description: "The Meaning of Life",
     image: Week_3,
   },
   {
     name: "Week 4",
-    description: "Privacy & Corporations",
+    description: "Be Curious About Death",
     image: Week_4,
   },
   {
     name: "Week 5",
-    description: "Privacy & Governments",
+    description: "Doubt Everything",
     image: Week_5,
   },
   {
     name: "Week 6",
-    description: "Freedom of Speech",
+    description: "Drunk in Love",
     image: Week_6,
   },
   {
     name: "Week 7",
-    description: "Intellectual Property",
+    description: "Misogyny",
     image: Week_7,
   },
   {
     name: "Week 8",
-    description: "Intellectual Property",
+    description: "Live Your Best Life",
     image: Week_8,
   },
   {
     name: "Week 9",
-    description: "Crime & Security",
+    description: "Care About the Tiniest Things",
     image: Week_9,
   },
   {
     name: "Week 10",
-    description: "Work",
+    description: "Do Your Duty",
     image: Week_10,
   },
   {
     name: "Week 11",
-    description: "Evaluating and Controlling Technology",
+    description: "Alleviate Suffering",
     image: Week_11,
   },
   {
     name: "Week 12",
-    description: "Errors, Failures, and Risks",
+    description: "Questioning Religion",
     image: Week_12,
   },
   {
     name: "Week 13",
-    description: "Professional Ethics",
+    description: "Philosophy Paper",
     image: Week_13,
   },
   {
     name: "Week 14",
-    description: "Ethics of Artificial Intelligence",
+    description: "How Should I Live?",
     image: Week_14,
   },
 ];
@@ -106,232 +106,718 @@ const projects = [
 const essay = [
   {
     content:
-      "Hello, my name is Anshaj Vats, and I'm a computer science major in my junior year at the University of San Francisco. I've never attended SFSU before this semester. I am pleased with my summer internship with Amazon in 2023. It was a fantastic educational opportunity that strengthened my abilities and gave me a sense of independence. I was dependent on my parents for financial assistance before this internship, but after it, I gained financial independence. I also take great delight in my fellowship at Girl Makes Games, where I was able to instruct girls with impairments in game creation. also was rewarding to mentor them to produce their greatest games, and also brought attention to how crucial diversity is in the IT sector. These experiences have shaped my journey and fueled my passion for making a positive impact through technology.\n\n\n For years, many people have debated whether a hotdog is a sandwich. At first look, it appears to meet the fundamental definition of a sandwich: a filling wrapped between two slices of bread or a roll. However, on closer investigation, the categorization becomes less apparent. One argument against the hotdog as a sandwich arises from its common menu placement. Hotdogs are frequently listed separately from sandwiches in restaurants and fast-food establishments, similar to burgers. This implies that there is a perceived difference between the two. Hotdogs, like burgers, appear to inhabit a distinct realm. Not only that, but a hotdog without a bun is a completely different animal. A hotdog is just a sausage without the surrounding bread. This striking difference emphasizes the significance of the bun in determining a hotdog's character. Unlike sandwiches, which retain their essence regardless of the bread used, the lack of a bun diminishes the hotdog's sandwich-like properties. Hotdogs' adaptability also makes it more difficult to classify them as sandwiches. A common practice is to chop hotdogs and add them to different recipes, including macaroni or spaghetti. When this happens, they completely lose their ability to conjure up images of sandwiches. While the precise definition of a sandwich includes hotdogs, the context in which they are consumed and presented suggests different. Hotdogs are classified as a unique entity from sandwiches due to their distinct menu location. So, despite looks, there is still a compelling argument against hotdogs being categorized as sandwiches. Personally, I have only had hotdogs twice in my life because I don't eat red meat. Instead, I consume a lot of chicken and seafood. So, my opinion on hotdogs is more based on what I observe rather than my personal experience of consuming them frequently.",
+      "For years, many people have debated whether a hotdog is a sandwich. At first look, it appears to meet the fundamental definition of a sandwich: a filling wrapped between two slices of bread or a roll. However, on closer investigation, the categorization becomes less apparent. One argument against the hotdog as a sandwich arises from its common menu placement. Hotdogs are frequently listed separately from sandwiches in restaurants and fast-food establishments, similar to burgers. This implies that there is a perceived difference between the two. Hotdogs, like burgers, appear to inhabit a distinct realm. Not only that, but a hotdog without a bun is a completely different animal. A hotdog is just a sausage without the surrounding bread. This striking difference emphasizes the significance of the bun in determining a hotdog's character. Unlike sandwiches, which retain their essence regardless of the bread used, the lack of a bun diminishes the hotdog's sandwich-like properties. Hotdogs' adaptability also makes it more difficult to classify them as sandwiches. A common practice is to chop hotdogs and add them to different recipes, including macaroni or spaghetti. When this happens, they completely lose their ability to conjure up images of sandwiches. While the precise definition of a sandwich includes hotdogs, the context in which they are consumed and presented suggests different. Hotdogs are classified as a unique entity from sandwiches due to their distinct menu location. So, despite looks, there is still a compelling argument against hotdogs being categorized as sandwiches. Personally, I have only had hotdogs twice in my life because I don't eat red meat. Instead, I consume a lot of chicken and seafood. So, my opinion on hotdogs is more based on what I observe rather than my personal experience of consuming them frequently.",
   },
   {
     content:
-      "As Malala Yousafzai said, \"Let us remember: One book, one pen, one child,and one teacher can change the world.\" The ethical conundrum of illegallydownloading textbooks becomes a significant matter for college studentstrying to get necessary learning materials, especially when the cost oftextbooks for courses like this one may rise as high as $117. Illegaltextbook downloading might be viewed from a utilitarian standpoint as apractical reaction to the unfairness caused by high textbook prices.Students benefit from illegal downloads since they provide them access toeducational resources that they otherwise wouldn't be able to buy.Similarly, from a deontological perspective, it is important to take intoaccount the larger social context in which intellectual property rightsviolations occur. Students defend the values of justice and fairness, whichare essential to deontological ethics, by opposing unfair systems andfighting for educational equality. To explain this idea let's take an example:Despite the fact that murdering is typically seen as wrong, there are situations in which taking drastic measures—such as shooting an intruder—to save your family is ethically acceptable since doing so is fundamentally right. Similarly, while downloading textbooks illegally may be considered wrong, its promotion of educational equality can lead to a viewpoint where it is deemed ethically correct under the lens of deontology. However, virtue ethics provides a more complex analysis of the morality of obtaining textbooks illegally. Students can claim that they are performing their responsibilities as learners by getting crucial resources. In this view, proper functioning is working to eliminate barriers that prevent one from achieving their educational goal. Students that engage in illegal downloading show that they are dedicated to learning and that they are prepared to overcome obstacles that stand in the way of their academic progress. Also, qualities like fairness and wisdom are as important as virtues like honesty and integrity. Students who engage in illegal downloads 3 show a commitment to justice by fighting for educational equality. Furthermore, by prioritizing their educational demands in difficult situations demonstrates their practical wisdom. In conclusion, while downloading textbooks illegally may at first seem morally wrong. A deeper look at the various ethical frameworks suggests that it may actually be justified as long as it is promoting educational equality. It is clear from taking into account utilitarian and deontological ethics viewpoints that students who participate in illegal downloads are supporting more fair and just educational practices. Students are putting the interests of the group ahead of their own. Additionally, from a virtue ethics perspective, by removing obstacles that stand in the way of their academic goals, students may be considered as carrying out Aristotle's description of their job as learners. \"Education is the most powerful weapon which you can use to change the world,\" as Nelson Mandela once said and we can definitely do with some changes in this word. In a society where financial obstacles shouldn't limit access to education, it is morally necessary to guarantee equal learning opportunities for all students.",
+      "I saw an animation where a rat lives his whole life chasing happiness, but getting into a futile cycle. At first, the rat sits silently within an elevator, amidst others, saying nothing—just like how we live our lives without inquiry, just conforming to the crowd. This reminds one of Socrates' argument that most human beings live unexamined lives, going along with what is socially accepted without reflection. The rat initially believes that worldly possessions will bring him happiness. He buys a car, excited at first, thinking it will enhance his existence. Soon enough, though, he finds himself stuck in traffic, annoyed and tense. His lovely possession proves to be another reason that aggravates him. Someone eventually even steals some of his car, pointing out how fast worldly possessions can get taken away. Desperate to fill the void, he goes shopping, going to malls and spending money on things he does not need. Like most people in our generation, he is trapped in the consumer trap, thinking that happiness is attainable by purchase. During Black Friday, he rushes into a store, shoving through crowds, hurting himself in the chaos—just to acquire a bargain product that will not bring lasting happiness. Socrates' Apology is a direct allusion to this, as he asserts that most people chase superficial ends—wealth, status, pleasure—without taking into account that these things do not add up to real fulfillment. He warns that an unexamined life, in which one's deeper truths are not challenged, is not worth living. By the end, the rat has all of society taught him to seek—money, materialism, even painkillers to dull the emptiness—but is no happier. This agrees with Socrates' argument that one finds wisdom in the recognition of ignorance and seeking virtue rather than ignorantly seeking the deceptions of pleasure. The rat, like many people, never stops to examine his path, while Socrates encourages us to look back at what is truly important in life. https://www.youtube.com/watch?v=e9dZQelULDk",
   },
   {
     content:
-      "In Chapter 1 of The Gift of Fire, Sara Baase discusses several changes and unexpected developments, one of which is the proliferation of surveillance technologies. This development has significant implications for society over the next ten years. From an ethical perspective, the utilitarian theory can be applied to analyze its impact and suggest courses of action. Surveillance technologies, such as facial recognition, GPS tracking, and online monitoring, have become increasingly prevalent in recent years. These technologies offer benefits such as improved security, more efficient law enforcement, and personalized services. However, they also raise serious ethical concerns regarding privacy, freedom, and social control. 1 From a utilitarian standpoint, the benefits of surveillance technologies must be weighed against their harms. While these technologies can enhance security and convenience for many people, they also have the potential to infringe on individuals' rights and freedoms. For example, widespread surveillance can lead to increased social control, eroding the autonomy of individuals and stifling dissent. Additionally, the collection and storage of massive amounts of personal data raise concerns about data security and misuse. To address these issues, society must take a balanced approach that maximizes the benefits of surveillance technologies while minimizing their harms. This could involve implementing strict regulations and oversight mechanisms to ensure that these technologies are used responsibly and ethically. For example, laws could be enacted to limit the use of facial recognition technology to specific purposes, such as law enforcement or airport security, and to prohibit its use for mass surveillance or tracking individuals without their consent. My Essay In first chapter,, one of the topics introduced by Sara Baase is surveillance technologies. According to Sara, technologies like facial recognition, GPS tracking, and online monitoring have raised significant privacy concerns. Sara suggests that there should be an appropriate response from both a societal and software developer perspective. 2 If we look at the implications of surveillance technologies through the lens of Utilitarian ethics, we will find that the harms significantly outweighs the benefits. Utilitarianism focuses on maximizing overall pleasure, minimizing pain, and finding the best outcome. Overall, it is a future-oriented approach. In the case of surveillance technologies, the benefits include improved security, more efficient law enforcement, and personalized services. However, these benefits are severely outweighed by the potential harm such as privacy violations, erosion of autonomy, and social control. The best examples of this are the revelations by Edward Snowden in 2013 about the US government's mass surveillance programs such as Prism. It highlights how surveillance technology can destroy individual privacy and civil liberties. Furthermore, the collection and storage of vast amounts of personal data raise concerns about data security, and unauthorized access to this data can lead to identity theft, financial fraud, and other forms of harm. In the next ten years, there will be more public awareness and concern about the extent of government surveillance. It will definitely spark legal challenges that will lead to reform in surveillance practices. If it doesn’t happen, then these surveillance technologies become more integrated in our everyday life like smartphones, and people will learn to survive under surveillance. To address these issues, society should prioritize minimizing the potential harm of surveillance technologies. This could involve implementing strict regulations and oversight mechanisms to ensure responsible and ethical use. For instance, laws could 3 limit the use of facial recognition technology to specific purposes, such as law enforcement or airport security, and prohibit the use for mass surveillance without individual consent. Additionally, not only people but software developers also have to address this issue. It is essential for a software developer to consider the technologies they are creating. A developer should at least ensure that people using their technology are aware of the ethical concerns regarding it. Developers could consider designing systems that have built-in privacy protection. In conclusion, the harm done by surveillance technology definitely outweighs the positive side of it. So according to utilitarianism, surveillance technology is unethical. We should not use facial recognition and GPS tracking, etc. It is evident that these technologies may be the downfall to personal security. If we can't stop it, then at least minimize the use of it. As a society, we must take proactive steps to regulate and control the use of these technologies. As the saying goes, \"With great power comes great responsibility,\" and it is our ethical duty to wield technological advancements responsibly. ",
+    `I saw an animation where a rat lives his whole life chasing happiness, but getting into a futile cycle. At first, the rat sits silently within an elevator, amidst others, saying nothing—just like how we live our lives without inquiry, just conforming to the crowd. This reminds one of Socrates' argument that most human beings live unexamined lives, going along with what is socially accepted without reflection.
+
+The rat initially believes that worldly possessions will bring him happiness. He buys a car, excited at first, thinking it will enhance his existence. Soon enough, though, he finds himself stuck in traffic, annoyed and tense. His lovely possession proves to be another reason that aggravates him. Someone eventually even steals some of his car, pointing out how fast worldly possessions can get taken away. Desperate to fill the void, he goes shopping, going to malls and spending money on things he does not need. Like most people in our generation, he is trapped in the consumer trap, thinking that happiness is attainable by purchase. During Black Friday, he rushes into a store, shoving through crowds, hurting himself in the chaos—just to acquire a bargain product that will not bring lasting happiness.
+
+Socrates' Apology is a direct allusion to this, as he asserts that most people chase superficial ends—wealth, status, pleasure—without taking into account that these things do not add up to real fulfillment. He warns that an unexamined life, in which one's deeper truths are not challenged, is not worth living. 
+
+By the end, the rat has all of society taught him to seek—money, materialism, even painkillers to dull the emptiness—but is no happier. This agrees with Socrates' argument that one finds wisdom in the recognition of ignorance and seeking virtue rather than ignorantly seeking the deceptions of pleasure. The rat, like many people, never stops to examine his path, while Socrates encourages us to look back at what is truly important in life.
+
+
+https://www.youtube.com/watch?v=e9dZQelULDk`
   },
   {
     content:
-      "In today's digital age, technology companies have unprecedented access to vast amounts of personal information. Despite concerns that these companies may know too much about us, it is important to consider the nuances of data ownership.. Firstly, the collection and use of personal information by technology companies are often governed by terms of service agreed upon by users. As discussed in The Gift of Fire, individuals enter into agreements with technology companies when they use their services, implying a degree of consent to the collection and use of their data. Technology companies play a crucial role in the digital economy by providing innovative products that rely on the collection of user data. This data can be used to improve services.  For example, Facebook, Instagram, and WhatsApp are all free-to-use services that have become integral parts of our lives. These platforms continuously analyze popular features and update them. For instance, the \"story\" feature on Instagram was widely used. Later it was added to Facebook and WhatsApp. This integration has significantly improved users' life. Meta, the parent company of these platforms, has heavily invested in analyzing the data collected from users to enhance their experiences. This integration has significantly improved users' experiences and demonstrates the positive impact of data analysis by technology companies. However, concerns about data ownership and privacy remain. While users may have a right to control their data, technology companies invest significant resources in collecting, processing, and analyzing this data. The question of who owns personal data and how it should be used is a complex ethical issue. For instance, many argue that tech companies use personal data for purposes beyond what users may have agreed to, raising questions about data ownership and control. The broader implications of data ownership and privacy breaches must be considered. Personal data is not only used by technology companies but also by governments and other organizations for various purposes, including law enforcement and public health. Without proper regulations, there is a risk that personal information could be used for malicious purposes, such as identity theft or surveillance. The new technologies and changing government policies have impacted the ability of law enforcement agencies to intercept communications. The Communications Assistance for Law Enforcement Act (CALEA) requires that the technology used in communications systems must be designed to ensure the ability of law enforcement agencies to intercept communications. This raises privacy concerns, as well as the potential for abuse by government agencies. In addition to this, The Electronic Communications Privacy Act (ECPA) of 1986 extended wiretapping restrictions to electronic communications, including email and cell phones, marking a significant step toward protecting privacy. However, the USA PATRIOT Act passed after the 2001 terrorist attacks, weakened the ECPA and expanded government surveillance powers, raising concerns about privacy rights. In conclusion, while technology companies' access to personal information has led to numerous benefits, concerns about data ownership and privacy exist. Companies need to be transparent about their data practices, and for users to be aware of their rights regarding their personal information. As technology continues to advance, the debate over data ownership and privacy will likely remain a complex and evolving issue.",
+    `A particularly insightful scene within the TV program Breaking Bad occurs within a flashback with a younger Walter White and Gretchen Schwartz that centers on a debate about the very elements of existence. Walt is standing beside a chalkboard covered with formulas with a look of question about if a key component is missing. Gretchen asks him, “What about the soul?”, to which Walt replies with a shrugging of the shoulders while saying “There’s nothing but chemistry here.”
+
+Walt's assertion—that man is essentially the summation of his chemical interactions— aligned with the belief that the entire existence of man can all be reduced to physical functions. Materialism held by thinkers like Daniel Dennett and Richard Dawkins is the belief that the existence of the soul is a man-made illusion that is best replaced by the knowledge that man's consciousness is simply a byproduct of brain functions that will eventually stop with the man's death.
+
+This scene from Breaking Bad mirrors my own evolving perspective on the soul and the afterlife. Growing up, I considered concepts like Heaven and Hell as definitive realities that dictated how I should live. However, as I’ve studied philosophy and science, I’ve begun to question whether these beliefs are grounded in truth or simply comforting narratives. If there is no life after death, then the importance of living meaningfully in the present becomes even greater. Like Walt, I’ve wrestled with the implications of a finite existence, but unlike him, I believe morality and purpose still hold value, even without the promise of eternal reward or punishment.
+
+In summary, Breaking Bad forces us to confront a daunting question: is there something about us that exists independent of mere chemical reactions? Or do we, according to Walt's worldview, merely exist as a series of bodily functions to bleed away into the abyss? `,
   },
   {
     content:
-      "In an era dominated by digital communication, the question of government access to private messages online has become increasingly relevant. While there are legitimate reasons for governments to access such information, such as national security concerns or criminal investigations, the potential for abuse and violation of privacy rights looms large. Therefore, it is crucial to establish clear conditions, oversight mechanisms, and safeguards to ensure that government access is limited, justified, and subject to rigorous scrutiny. Conditions for Government Access Government access to private messages should only be permitted under specific conditions, with strict oversight and safeguards in place. Firstly, access should be granted when there is a clear and present danger to public safety, such as in cases of imminent terrorist attacks. In such situations, the government may need access to private messages to identify and apprehend suspects quickly. Secondly, access should be granted when a warrant is issued by a court, specifying the crime being investigated and the scope of the search. This ensures that access is granted based on legal grounds and with a clear purpose. Thirdly, access should be granted when there is a compelling public need, such as in cases of major fraud schemes or serial crimes like rape. In these situations, access to private messages may be necessary to investigate and prosecute the perpetrators effectively. Justified Situations for Government Access One situation where government access to private messages is justified is in stopping a terrorist attack. The government has a responsibility to protect its citizens from harm, and access to private messages may be crucial in identifying and apprehending suspects before they can carry out an attack. Another justified situation is in building a case against a serial rapist. Rape is a serious crime, and the government has a responsibility to investigate and prosecute these cases. Access to private messages may be necessary to gather evidence and build a strong case against the perpetrator. Unjustified Situations for Government Access However, there are also situations where government access to private messages is not justified. One such situation is political surveillance. The government should not be allowed to use access to private messages to spy on its citizens or target political opponents, as this would be a violation of privacy rights and democratic principles. Another unjustified situation is investigating minor crimes. The government should not use access to private messages to investigate minor crimes, as this would be an overreach of government authority and could lead to abuse. Safeguards to Prevent Abuse To prevent abuse and ensure that government access to private messages is limited and justified, several safeguards should be implemented. Firstly, there should be strict oversight of any government access, by the courts and independent bodies, to ensure that it is granted only in appropriate circumstances. Secondly, the government should be transparent about its use of private messages, publishing regular reports on the number of requests for access, the reasons for the requests, and the outcomes of the investigations. Finally, encryption should be encouraged to protect private messages from unauthorized access. Weakening encryption standards could make private messages more vulnerable to hacking and surveillance, undermining the privacy and security of individuals. In conclusion, while there are legitimate reasons for governments to access private messages online, such access should be limited, justified, and subject to strict oversight and safeguards. By establishing clear conditions and mechanisms to prevent abuse, we can protect both national security and individual privacy rights in the digital age.",
+    `The Inception of Realization – Am I Dreaming?
+
+I’ve always been fascinated by the nature of reality and the way dreams can blur the lines between what is real and what is imagined. Though I haven’t seen Inception, I understand its core idea—the concept of dreams within dreams, the ability to manipulate dream states, and the challenge of distinguishing between waking life and illusion. Recently, I’ve had a series of dreams that have made me question my own reality, pushing me to consider whether I am, at this very moment, inside a dream.
+
+ 
+
+This is exactly what Inception describes: the idea that dreams can be indistinguishable from reality, and that with enough awareness, we can recognize when we are inside one. The concept of false awakenings and layered dream states is something I’ve personally experienced. I’ve woken up within dreams, only to realize later that I was still dreaming. I’ve had moments where I actively tried to wake myself up, sometimes by falling backward—a method I’ve used since childhood to escape nightmares. But recently, instead of waking up, I’ve fallen deeper, shifting into another dream state.
+
+ 
+
+Descartes questioned whether we could ever truly know if we are awake, and Inception takes that further, asking if our reality is merely another level of the dream. If we accept that reality is constructed by our perceptions, and that those perceptions can be manipulated, then is there ever a way to be truly certain that we are awake?
+
+So, how do I prove that I am awake? How do I test the boundaries of this world? The logic of Inception suggests that reality is constructed through a series of consistent rules. Perhaps, if I look closely enough, I will find an inconsistency—something that betrays the dream.
+
+
+https://www.imdb.com/title/tt1375666/`,
   },
   {
     content:
-      "In the realm of online communication, the issue of censorship, particularly concerning content involving nudity and sexuality, poses a complex challenge. While the First Amendment guarantees freedom of speech, there are limitations, such as obscenity, child pornography, and threats of violence, that are not protected. Determining what content should be censored and who should make that decision is the biggest issue. One school of thought suggests that the government should play a role in regulating online speech. However, others argue that private companies have the right to set their standards. Some say Tech companies may be influenced by commercial interests or social pressures, while government regulation could potentially infringe upon freedom of expression. This has resulted in varying approaches among different platforms, with some allowing explicit content and others enforcing strict moderation policies. The Supreme Court's rulings on the protection of speech involving nudity or sexuality have far-reaching implications. While this protection is crucial for civil rights groups there are instances where legal statutes, like Texas' SB 8, complicate matters. Such laws allow for lawsuits against individuals sharing information on abortion access, illustrating that even the government faces challenges in determining what should be censored. This complexity extends to legislative actions like Sesta/Fosta, which aimed to combat online sex trafficking but, in reality, resulted in the worst kind of consequences. The legislation led to increased violence, arrests, self-harm, and suicide among sex workers, demonstrating the dangers of poorly conceived censorship laws. Furthermore, the fear of lawsuits has prompted web companies to aggressively de-platform sex workers and LGBTQ+ communities, showcasing how legal changes can impact the lives of millions. Therefore, in determining how to regulate online content involving nudity or sexuality, tech companies need to strike a balance between freedom of expression and protection against harm. While nudity and sexuality are natural aspects of human life, their portrayal in certain contexts can be harmful or offensive to others. For example, the distribution of revenge porn, which is the non-consensual sharing of intimate images, can have devastating consequences for victims. Similarly, hate speech targeting individuals based on their characteristics can create a hostile environment. Navigating the complexities of online censorship requires a thoughtful and nuanced approach. One potential solution is for social media companies to adopt clear and consistent guidelines for acceptable content, with specific provisions for nudity and sexuality. These guidelines should be developed in consultation with experts in law, psychology, and ethics and should be regularly reviewed and updated to reflect changing social norms. For example, the discrepancy in censorship between male and female nipples exemplifies the complexities of regulating online content involving nudity and sexuality. This double standard highlights the subjective nature of censorship and the need for clear and consistent guidelines. The #freethenipple campaign underscored the importance of challenging social norms. Now equal treatment of all individuals regardless of gender is a natural law. By addressing such inconsistencies and adopting more inclusive policies, tech companies can move towards a better online future. In conclusion, tech companies should have the right to decide what to censor, as the government clearly can’t come up with one guideline for it. However, these tech companies should have clear and concise guidelines. Unlike right now, where every platform has its censorship policies. As the famous quote by John Stuart Mill goes, \"The only purpose for which power can be rightfully exercised over any member of a civilized community, against his will, is to prevent harm to others.\" Tech companies should censor content that poses immediate harm to individuals while allowing people to freely express themselves.",
+    `I believe the nature of love differs from person to person, but my take is that love is a promise, but not with another person. Love is something you promise to yourself. I say yourself because it's a very real thing to have someone fall out of love while the other party is oblivious. It's also possible to love people that abuse you and to love people that aren't capable of returning it for whatever reason.
+
+Love is promising to do your best by a person. Some people feel they can still love others even while harming them, and that's why I don't say that love is wanting to see the other person happy. You can love someone while being selfish, so I can't say that love is wanting the best for someone. Now that sounds like when I said love is a promise to do your best, but YOUR best may not necessarily be THE best.
+
+Relationships implode all the time and people are left bewildered because, from their perspective, things were okay or even good. I can even understand feeling that way. If you think things are going well and you personally feel loved, why would you feel like someone joined to you would be in a wildly different place?
+
+I've said before that every tragic love story can be summed up with the sentiment "I thought I was doing it right." That's what love is, unfortunately. Love is doing your best for someone you care about, through the lens of your perspective and framed by your experiences. It's not magic. That means that the love you give wholeheartedly can be something that other people can't use. It can hurt others. It can make them unhappy. Love is imperfect because people are imperfect.
+
+Expectations of it being some perfect panacea for the soul or a matchless balm for the heart only apply when the people are already congruent. If you have to grow and change to love someone a different way than you do, you might not. That's not because you don't love them, but because you don't love them the way that they need and that you can supply.`,
   },
   {
     content:
-      "The Copyright Dilemma: Tattoos in Video Games Copyright law is a complex law that aims to protect the rights of creators while balancing the public interest in accessing and using creative works. One recent case that highlights the complexities of copyright law is the lawsuit involving tattoos on LeBron James in the video game NBA 2K. Copyright and its Purpose? Copyright is the right that creators have over their original works. Its main purpose is to promote creativity by granting creators exclusive rights to use and distribute their works, thereby allowing them to benefit financially from their creations. Fair Use? Fair use is a doctrine in copyright law that allows limited use of copyrighted material without permission from the copyright holder. It is intended to balance the rights of creators with the public interest in accessing and using creative works. Fair use allows for the use of copyrighted material for purposes such as criticism, commentary, news reporting, teaching, scholarship, or research. Transformative Use! Transformative use is a relatively new addition to fair use law, established in the Supreme Court case Campbell v. Acuff-Rose Music (1994). A new work based on an old one is transformative if it adds something new and has a different purpose or character that alters the original work with a new expression, meaning, or message. In considering the case of tattoos on LeBron James in NBA 2K, I agree with the court's ruling that the use of the tattoos was de minimis and did not constitute a copyright infringement. The court's finding that the video game maker had an implied license to use the tattoos through its agreements with the NBA is completely fair. In the pixel world, one of the major ways to differentiate characters from each other is through tattoos. Since LeBron gave the right to use his likeness in the game, it falls under fair play.",
+    `Misogyny can come in all shapes and forms—some implicit, some explicit—but all rooted in the same set of patriarchal ideals. For example, there’s the obvious, in-your-face, explicitly women-hating (often violent) rhetoric perpetuated by people like Andrew Tate.
+
+However, misogyny isn’t always loud or aggressive—it can also be subtle, woven into everyday interactions that many men may overlook. A woman’s ideas and suggestions being ignored in a corporate meeting, her competence being questioned more than a male colleague’s, or assumptions that she must be more nurturing and accommodating—these are all manifestations of sexism. While they may not seem extreme they stem from the same societal structures that devalue women.
+
+Take Tate's statement that "women are property." He has persistently suggested that when a man is in a relationship with a woman, she becomes his in a possession sense. This type of discourse robs women of their agency and reduces them to objects of male ownership and control. Similarly, his belief that "a woman's value is based on her youth and beauty" promotes the toxic idea that women are worth something based on their appearance rather than their brain, skills, or personality. These tales don't just stay trapped in Tate's online bubble silos—these seep into the larger culture and quietly affect society's view and treatment of women.
+
+At its essence, all types of misogyny—overt or covert—support the same damaging patriarchal ideologies that aim to control, belittle, or silence women. Andrew Tate's language is merely an extreme expression of the same prejudices that enable society to disregard women's voices in the workplace or devalue their contributions. `,
   },
   {
     content:
-      "Richard Stallman argues that all software should be free and open-source, meaning that users should have the unrestricted ability to use, modify, and distribute software without paying a fee or obtaining permission. He maintains that the current system of software ownership, in which developers hold exclusive rights over their creations, is detrimental to society and stifles innovation. Stallman asserts that software ownership obstructs the use of programs by restricting their distribution and modification. This limits the number of people who can benefit from the software and prevents users from adapting it to their specific needs. Additionally, Stallman argues that software ownership hampers the development of new software by preventing developers from building upon existing code and discouraging collaboration. One counterargument to Stallman's position is that software ownership is necessary to incentivize developers to create and maintain high-quality software. Without the potential for financial gain, developers may be less motivated to invest time and effort into developing new programs. Furthermore, software ownership can protect developers from unauthorized use of their creations and ensure that they receive fair compensation for their work. Another counterargument is that Stallman's vision of a society where all software is free could lead to a decline in the quality of software. Without the incentive of financial reward, developers may be less likely to invest in creating feature-rich and user-friendly software. Additionally, the absence of software ownership could make it more difficult to hold developers accountable for software defects or security vulnerabilities. While I appreciate Stallman's idealistic vision of a society where software is freely available to all, I believe that the current system of software ownership has certain merits. Software ownership provides incentives for developers to create and maintain high-quality software, and it protects developers from unauthorized use of their creations. However, I do agree with Stallman that the current system of software ownership can be restrictive and can hinder innovation. To address these concerns, I believe that we need to find a balance between protecting the rights of developers and ensuring that software is accessible and affordable to all. One possible solution is to adopt a tiered system for software ownership. Under this system, some software would be free and open-source, while other software would be proprietary. Free and open-source software would be available for anyone to use, modify, and distribute without paying a fee. Proprietary software would be owned by developers and would require users to pay a fee to use it. This tiered system would provide incentives for developers to create both free and proprietary software. Developers who create free and open-source software would be motivated by the satisfaction of knowing that their software is helping others and by the potential for building a community of users who contribute to the software's development. Developers who create proprietary software would be motivated by the potential for financial gain. The question of whether all software should be free is a complex one with no easy answer. Stallman's argument for free software is compelling, but there are also valid arguments in favor of software ownership. I believe that the best solution is to find a balance between the two, where software is accessible and affordable to all while still providing incentives for developers to create high-quality software.",
+    `Life is a blessing, and we should all make every day worth it. Unfortunately, there are people who live without caution and do the same thing until they fade away quietly. However, what is it for to be around and then fade away in this way without really living? In order to break this tendency and live a satisfying life, you need to discover a path that brings you meaning, insight, and development. One good way to do this is through this 5-step path to your best life. First of all, discover your passion—what you love to do, what you are capable of doing, and what you are interested in. Real motivation is within you, and you will feel happiness and satisfaction like never before when you find what really motivates you. I discovered my passion through meditation, which made it easier for me to let go of negative thoughts and discover my actual mission. Second, establish a clear vision and goal. Knowing what you really need and visualizing your best possible life gives you the courage to keep going even in times of difficulties. Thirdly, establish consistency—the strong and quiet power that separates successes and failures. With or without talent, doing your best on a regular basis can help you achieve great things. Fourthly, establish routines that energize you. A thoughtful evening routine will make you think and set goals for yourself, while a meaningful morning routine will help you begin your day with a positive tone. Lastly, establish self-discipline. With all these distractions around you, it is necessary to resist short-term gains and look to your long-term happiness. Through meditation, I became more conscious of what I wanted and learned to let it go and make wiser choices. Meditation played a big role in my transformation. It is helping me eliminate bad ideas, know myself for who I am, and live with enthusiasm, a clear mind, and self-discipline.`,
   },
   {
     content:
-      'Hacktivism, the use of hacking techniques for political or social activism, raises ethical and social questions that vary depending on the political system in which it occurs. Not to be confused with activism. Activism typically involves nonviolent actions such as protests, petitions, or advocacy campaigns to raise awareness and bring about change. Activists work within legal and ethical boundaries to advance their cause, often leveraging democratic processes and institutions to achieve their goals. In contrast, hacktivism involves the use of hacking techniques, such as unauthorized access to computer systems or networks, to promote a political agenda. Hacktivists may engage in activities such as defacing websites, leaking sensitive information, or disrupting online services to draw attention to issues or to undermine perceived injustices. The quote from "Gift of Fire" raises important considerations regarding hacktivism and the political context in which it occurs. It suggests that the ethical and social justification for hacking to promote a political cause differs based on the level of freedom of expression in a given country. In free countries where individuals can freely share their opinions online through platforms like social media, the use of hacking to advance a political agenda may be seen as less justifiable. One point made by the book that supports this statement is the potential consequences of hacking. Hacking can have serious legal repercussions and damage the reputation of the hacker. In free countries, individuals have access to other means of expressing their political views, such as social media, protests, or contacting elected officials. These avenues are often less risky and more socially acceptable than hacking. Another point from the book that aligns with this statement is the impact of hacking on trust in the internet. Hacking can undermine the security of websites and data, leading people to question the safety of their online interactions. This lack of trust can have negative implications for the economy and society as a whole, as people may be less inclined to use the Internet for transactions or communication. I agree with the statement that in free countries, it is hard to justify hacking someone else\'s site to promote a political cause. The availability of alternative means of political expression, coupled with the potential consequences of hacking, makes it a risky and ethically questionable tactic. However,  there are circumstances in which hacktivism can be seen as a legitimate form of protest, particularly in countries where freedom of speech is suppressed. For example, hacktivist groups like Anonymous have used hacking to expose government corruption and human rights abuses in countries where traditional forms of activism are ineffective or dangerous. In these cases, hacking can be viewed as a necessary tool for fighting injustice and promoting freedom of expression. Ultimately, the justification for hacktivism depends on the specific circumstances and the political environment in which it occurs. While there are valid arguments against hacking in free countries, where other forms of activism are available, the situation is different in countries where freedom of speech is restricted. In these cases, hacktivism may be seen as a justified means of challenging oppressive regimes and advocating for fundamental rights. In conclusion, the quote from "Gift of Fire" highlights the complex ethical and social considerations surrounding hacktivism. While it may be difficult to justify hacking in free countries, where alternative means of political expression exist, it can serve as a powerful tool for promoting justice and freedom in countries where freedom of speech is suppressed. Understanding the nuances of hacktivism is essential for engaging in informed discussions about its role in society.',
+    `Rituals are powerful tools that assist us in organizing, comprehending, and appreciating our mundane lives. It's particularly true when we are bored with routines or are by ourselves in a silent environment. The elegance of rituals lies in how they transform mundane actions into meaningful practices. They enhance our mood and can reveal new aspects of ourselves. An example of a ritual can be preparing a nice cup of tea or coffee in the morning with an attractive cup, saucer, and teapot. It makes the simple act of having a drink more joyful and can brighten our mood. Also, going grocery shopping on a particular day, such as Friday evening after a tiresome day's working, can turn a monotonous task into a source of enjoyment. Choosing your favorite foods or ingredients and afterwards relaxing by watching TV or a program creates excitement and allows us to escape from routine. Having particular self-care routines, such as a Sunday evening ritual with a delicious dinner, bath, and grooming, can become a great beginning to the new week. It enhances our self-esteem as well as overall well-being. The concept isn't about what activities, but about how these rituals build their own little world. It's a short-lived space where we are allowed to feel valued, taken care of, and connected, if only momentarily. You can make life more enjoyable by having friends over to dinner with a theme, such as a monthly dinner of Mexican food. It allows you to also enjoy great food and enhance friendships and sense of belonging as well. Some enjoy embellishing simply, with nice dishes, candles, or tiny treasures on a mirror, as it brings order and beauty into everyday life. Interestingly enough, consideration of rituals brought me to a personal epiphany; I thought I was simply a caffeine addict who needed coffee in the morning so I didn't get headaches. But I discovered it was more than caffeine; it was in the ritual of preparing and enjoying that cup of coffee that helped me feel alert and establish a productive morning ritual.`,
   },
   {
     content:
-      "Technological advancements have long been hailed as drivers of economic growth and prosperity. While this is often the case, it is important to recognize that not all technological advances lead to positive economic outcomes. In fact, there are instances where technological advancements can have negative consequences for the economy. One of the primary concerns surrounding technological advancements is the potential for job displacement. As technology advances, certain jobs may become automated or obsolete, leading to job losses in those fields. This can have a significant impact on workers who are not able to easily transition to new occupations requiring different skill sets. For example, the automation of manufacturing processes has led to job losses in the manufacturing sector in many countries, including the United States and China. Another potential negative consequence of technological advancements is increased inequality. Technological advancements can lead to increased inequality between those who have access to the latest technologies and those who do not. This can result in a widening gap between the rich and the poor. For example, the rise of digital technologies has created opportunities for those with the skills to leverage these technologies, while leaving behind those who do not have access to or the ability to use them. Another significant impact of technological advancements on the economy is the reduction in available work for men with a high school degree or less. According to recent statistics, fewer than 70 percent of men with a high school degree or less are currently employed. This decline in employment can be attributed in part to technological advancements that have led to the automation of many jobs that were traditionally held by individuals with lower levels of education. Additionally, technological advancements can have negative environmental impacts. The production and use of new technologies can lead to pollution and resource depletion, which can have long-term economic costs, such as the need for environmental cleanup and remediation. For example, the production of electronics requires the extraction of rare earth metals, which can have significant environmental impacts. One specific example of the potential negative economic impact of technological advancements is Uber's business model. While Uber has led to lower prices for consumers, it has also led to lower wages and fewer benefits for drivers. This is because Uber classifies its drivers as independent contractors, rather than employees. This allows Uber to avoid paying for benefits such as health insurance and unemployment insurance. As a result, many Uber drivers struggle to make ends meet and are vulnerable to economic instability. Not only that,  In New York City, the Haas Act limited the number of taxi medallions issued to operate a taxi, resulting in a scarcity of taxis and high prices for riders. However, the emergence of Uber disrupted this market by providing a more convenient and affordable alternative. This disruption led to a flood of drivers and a decrease in the value of taxi medallions. This example illustrates the potential of new technologies to disrupt existing markets and challenge established regulations, highlighting the need for policymakers to adapt to these changes and ensure that regulations are updated to protect both consumers and workers in the evolving economy. In conclusion, while technological advancements have the potential to bring about economic benefits, they can also have negative consequences. It is important for policymakers to carefully consider the economic impact of new technologies before implementing them and to develop policies that mitigate potential negative consequences. By doing so, we can ensure that technological advancements contribute to economic growth and prosperity for all members of society.",
+    `In class, we discussed two thought-provoking problems related to ethics. The first was the famous trolley problem. Imagine a trolley in San Francisco, speeding down a track where five people are tied up. You’re standing next to a lever that can divert the trolley onto another track, where only one person is tied.
+
+ 
+
+Initially, my instinct was not to pull the lever—I felt it would be wrong to actively make a decision that results in someone’s death. But as the lecture progressed, and we explored different ethical frameworks like Kantian ethics and utilitarianism, my perspective began to shift.
+
+ 
+
+Utilitarianism, argues that the morally right action is the one that produces the greatest good for the greatest number of people. In the context of the trolley problem, a utilitarian would likely pull the lever, reasoning that saving five lives at the cost of one is the more ethical choice because it maximizes overall happiness or well-being.
+
+ 
+
+A twist to the problem was introduced: instead of a lever, you are now on a footbridge above the tracks. There is a large man next to you, and if you push him off the bridge, his body will stop the trolley and save the five people. While the outcome is the same—five lives saved at the cost of one—this scenario feels morally different.
+
+ 
+
+ According to Immanuel Kant, we must never use people merely as a means to an end. Pushing the man violates this principle, as you’re sacrificing him without his consent. I found this distinction powerful. While utilitarianism focuses on outcomes, Kantian ethics emphasizes the inherent dignity of individuals. Both frameworks challenged my thinking, and I appreciated how they complicated what initially seemed like a simple moral dilemma.`,
   },
   {
     content:
-      "This game was so addicting that I played it twice. I got 210 points once, and I was surprised because I thought I was doing well. The game ended, perhaps because of my choice to allow edgy content on the platform. There was a question about a team name being a slur, and I chose to add it to the algorithm. This choice ended my gameplay because people used the slur to harass others. In my second playthrough, my company, Ethnos, was focused on connecting humanity and being family-friendly. Now I understand why most platforms say they are family-friendly. The decision that shocked me was during the congressional hearing. For one of the questions, I distinctly remembered telling the truth, but the game or Congress told me it was a lie. I was so disappointed. In the end, I finished the game, the company went public through an IPO, and I stayed with the company. It felt like I had invested so much in the company that I didn't want to leave.",
+    `We studied the fundamental differences between utilitarianism and Kantian ethics this week. These concepts will assist an individual in his ability to grasp different situations. These theories provide essential means of thinking. They guard the individual from ambiguity and enable him to explain and justify his moral ideals clearly.
+
+One of the greatest advantages of learning such theories arises when others attempt to persuade us into doing something unethical. For instance, learning about Kantian ethics helps one determine if someone is doing something purely for their self-interest, not supported by Kant. Kant says people must always be valued for their own worth themselves, not as a means for one to gain from. Therefore, when someone is attempting to have you do something immoral primarily for themselves, learning the Kantian method puts you on solid ground to say no, with a good ethical basis for that.
+
+The best illustration is the one discussed during class for downloading books illegally. It is a demonstration of how one can view a problem from multiple angles, by employing concepts such as utilitarianism as well as Kantianism.
+
+The utilitarian philosophy examines ethics by examining the consequences of an action. Utilitarianism strives for maximizing happiness and minimizing harm. In illegal downloading of textbooks, we examine the long-term consequence: Did illegal downloading make someone a better student with greater knowledge, comprehension, and achievement? Typically, an author only receives a couple of dollars from a one-hundred-dollar textbook. In such a scenario, the educational value of the textbook overshadows the loss of money for the author. Utilitarianism could potentially justify such an action because the benefits of learning and self-achievement are much greater than the loss of money.
+
+Kantian ethics concerns actions by the reasons for doing them and obeying moral principles, rather than the outcome. Kant would want to know why you illegally downloaded the textbook. If you only did it for the purpose of saving money and it infringed someone else's right (such as the writer's right to be paid appropriately), Kant would believe your action is wrong. However, if your actual reason for doing it was for knowledge purposes and you could not afford purchasing the book legally, Kant would believe the action is right, from a universal notion that can be upheld by all, such as promoting knowledge and education.
+
+Acquiring such concepts makes us better able to know right from wrong. It eliminates uncertainty with respect to ethics so that we can make thoughtful and intelligent decisions.`
   },
   {
     content:
-      "One of the main examples of a technology failure is the Therac-25 radiation therapy machine. The Therac-25, used in radiation therapy in the 1980s, was designed to deliver controlled doses of radiation to cancer patients. However, a series of design and software errors led to several incidents where patients received massive overdoses of radiation, resulting in serious injuries and deaths. What went wrong: Software bugs: The Therac-25 used a computerized control system to regulate the radiation dose. However, a software bug in the machine's control software allowed it to deliver doses hundreds of times higher than intended. : The hardware provided no way for the software to verify that sensors were working correctly. The table-position system was the first implicated in Therac-25's failures; the manufacturer revised it with redundant switches to cross-check their operation. Poor error messages:  Several error messages merely displayed the word \"MALFUNCTION\" followed by a number from 1 to 64. The user manual did not explain or even address the error codes, nor give any indication that these errors could pose a threat to patient safety. Lack of hardware interlocks: The design did not have any hardware interlocks Links to an external site. to prevent the electron-beam from operating in its high-energy mode without the target in place. What could have been done to avoid the failure: Thorough testing: More extensive testing of the software and hardware could have helped identify and fix the bugs and design flaws before the machine was put into use. Better user interface: The machine could have had a more user-friendly interface with clearer error messages to help operators understand and respond to malfunctions appropriately. Redundant safety systems: The Therac-25 could have been equipped with redundant safety systems, such as hardware interlocks, to prevent  failures in case of software or hardware malfunctions. Improved training: Operators could have been better trained to recognize and respond to potential malfunctions, reducing the likelihood of serious incidents. The design flaws in the Therac-25 were severe and had devastating consequences. The software bugs and poor error messages created a problem that led to patients receiving massive doses of radiation. The software bugs allowed the machine to deliver doses hundreds of times higher than intended, while the lack of hardware interlocks meant there was no way to stop the machine when it malfunctioned. Plus, the cryptic error messages made it difficult for operators to understand and respond to malfunctions. Overall, the design of the Therac-25 was deeply flawed, with errors in both its software and hardware. These flaws resulted in serious injuries and deaths, highlighting the importance of testing in medical devices. It also highlighted how important it is to have a good error message. The Therac-25 serves as a reminder to us, on how inadequate design and testing can have serious consequences.",
+    `Nietzsche writes of two different kinds of morality, the noble and the slave. He represents these concepts in the image of the eagle and the sheep. When the eagle swoops down from the air and steals a lamb from the flock of sheep to kill it, it presents noble morality. The eagle preys confidently on weaker animals who cannot defend themselves. The eagle never questions whether to or not; it acts based on need and its strength. The sheep, however, embody slave morality. Since the eagle cannot be repelled by the sheep, that slave morality originates in these weaknesses and jealousy. The weaker creatures regard the eagle as unfair, bad, and cruel. This morality arises from weakness, along with jealousy of stronger animals who victimize them.
+
+Nietzsche's concepts in relation to my culture's history fascinate me, particularly the caste system. I personally think the most injustices in my culture were in the caste system. The caste system believed that a person's social status was determined at birth and remained the same throughout his or her life. This meant that if born a king or noble, his or her children were royalty or nobility no matter whether they were virtuous or not. One who was born in the lower caste or as a servant remained in the social status, never getting the chance to rise to the top rank. There aren't yet sufficient reasons I know of why the ruling classes created such a system, but what Nietzsche wrote helps explain it. From the concept of noble morality, we have the understanding of why kings, nobility, or ruling classes created and obeyed strict laws: just because they could. Like the eagle, the ruling class could just act without considering whether it was wrong or right. Probably, their motives were not bad—the ruling class didn't think too much about the pain and losses inflicted upon others but primarily about family, heritage, and privileges.
+
+Just the same as the eagle doesn't consider the hurt of the sheep it devours when it needs food, the higher castes never thought that they were doing something bad while they were in control and powerful. The higher castes must have thought they were getting special privileges, wealth, and protection for their children. The higher castes probably didn't think they were doing something bad; they were just exercising control and power. So, the concepts of Nietzsche demonstrate that systems such as caste could have been created by individuals who were too powerful and weren't necessarily bad.`,
   },
   {
     content:
-      "Working in the field of AI, particularly at a renowned company like Google, raises ethical considerations that align with the ACM Code of Ethics and Professional Conduct. The ACM emphasizes the importance of contributions to the public and human interests (1.1), which is inherent in the technological advancements AI can offer for societal benefit. One must acknowledge the potential negative consequences associated with AI, such as job displacement and privacy concerns, and work diligently to minimize these side effects. Loss avoidance (1.2) is a fundamental principle to consider, urging caution against unintended consequences and intentional abuse of AI systems. Integrity and trust (1.3) are crucial; clear communication about AI's capabilities and limitations is essential to build trust among stakeholders. Fairness and non-discrimination (1.4) are pivotal in AI development to ensure inclusivity and prevent biases. It is imperative that AI programs are fair and equitable, avoiding discrimination based on factors like age, gender, race, or religion. Additionally, respecting privacy (1.6) is paramount, requiring responsible use of personal data and implementation of strong data protection measures. Some may question the ethics of working at Google due to its influence and past ethical issues. However, it is ethical to work at Google as long as AI development adheres to ACM principles. Fear of change should not drive ethical decisions, especially when considering life-changing opportunities. It is essential to recognize that every company has faced ethical challenges, and AI, like any technology, can be dangerous if not developed and used responsibly. Every company, including Google, has faced ethical challenges at some point. One notable example is the case of Volkswagen, which faced significant backlash after it was discovered that they had intentionally programmed their diesel engines to activate certain emissions controls only during laboratory emissions testing. This allowed the vehicles to pass emissions tests while emitting up to 40 times more pollution in real-world driving conditions. This scandal, known as \"Dieselgate,\" resulted in fines, legal action, and a damaged reputation for Volkswagen. However, it is ethical to work at Google as long as AI development aligns with ACM principles and strives to make a positive impact on society. It's important for individuals working in AI, particularly at large companies like Google, to be aware of past ethical lapses in the industry and strive to uphold the highest ethical standards in their work. In conclusion, working on AI at Google can be an ethical choice if it aligns with ACM principles. By ensuring contributions to public welfare, avoiding harm, maintaining integrity, promoting fairness, and respecting privacy, AI developers can make a positive impact on society.",
+    `Ethical Views 
+Should you give money to homeless ?
+During my walk through San Francisco's Market Street, a homeless fellow came
+to ask me for twenty dollars. That moment raises an ethical question: whether to
+donate the money or not. In this paper, I argue why I will not give money.
+Kantian ethics, as explained by philosopher Onora O’Neill, is grounded in the
+Categorical Imperative—specifically, the principle that we must never treat others
+merely as means, but always as ends in themselves . In simple terms, this means
+respecting the autonomy and rationality of others, and not using them as tools for
+our own goals. If someone gives money to a homeless person just to feel good about
+themselves or to appear generous in front of others, they are not acting out of
+genuine moral duty—they are using that person to elevate their own self-image.
+According to Kant, this is ethically wrong. Kant also emphasizes that the morality of
+an action depends not on its outcome, but on the intention behind it. If the intent is
+to manipulate someone’s perception—like donating to appear compassionate on a
+date—this would be deceitful and unethical under Kantian principles. However, if one
+gives the money out of genuine respect for the person’s life and wants to make their
+day better, ensuring they have food to eat and clothes to wear, then the act may be
+
+morally praiseworthy. Thus, Kantian ethics does not clearly require giving the money;
+it depends entirely on the motive.
+Utilitarianism is a moral theory that judges the rightness of an action based
+solely on its outcomes. Unlike Kantian ethics, which focuses on intentions and
+principles, utilitarianism asks whether an action increases overall happiness or
+reduces suffering. Philosopher Peter Singer (1972) argues that if it is in our power to
+prevent something bad from happening—without sacrificing anything of comparable
+moral importance—then we are morally obligated to do it. In the case of giving $20 to
+a homeless person, a utilitarian would ask: what are the likely results of this action? If
+the $20 is used to buy food, hygiene supplies, or warm clothing, then the action
+results in a net gain of well-being with little to no cost to the giver. In this scenario, the
+utilitarian would say that giving the money is morally obligated. However, if the
+person uses the money to buy drugs or alcohol and worsens their addiction, then the
+outcome might be increasing suffering. Utilitarianism doesn’t care whether you meant
+to do good—only whether good actually happened. This means you are still morally
+responsible for the consequences of your action, even if your intentions were good.
+Singer (1972) takes this responsibility even further. He argues that affluent individuals
+in wealthy nations have a duty to prevent suffering wherever possible, even if the
+people in need are strangers far away. In his view, failing to help when we can afford to
+is not morally neutral—it is wrong. Applying this idea locally, we can see why giving to
+a homeless person could be morally praiseworthy, but only if the outcome is positive.
+The uncertainty around how the money will be used complicates this. A utilitarian
+would advise caution: you should assess the situation carefully—does the person
+
+seem intoxicated? Are they in a state that suggests they might misuse the money?
+O’Neill (1986), though writing from a Kantian perspective, agrees that outcomes
+matter in some cases—even if Kant’s theory primarily judges actions based on
+intentions. If the risk of doing harm outweighs the potential benefit, then from a
+utilitarian point of view, giving money is not morally justified. Instead, a better option
+might be donating food, toiletries, or contributing to organizations that provide
+structured support. That way, you can still promote well-being while minimizing the
+chance of unintentionally causing harm.
+I think I should not donate the twenty dollars to the homeless man in this
+instance because according to Kant, whether or not my action is right depends only
+on my intention. If I am giving the money just to make myself feel good or to impress
+someone, then I am using the homeless individual as a means to an end instead of
+respecting their dignity as a separate person (O'Neill, 1986). That makes the act
+immoral even if it has a positive outcome. Utilitarianism also cautions against
+prudence. Singer (1972) thinks that we are also responsible for the harm that we
+foresee our actions to cause and not the intentions that lie behind them. If the
+homeless man spent the money on an addiction or on making himself sick, I would
+have done more harm than good. As I cannot foresee with certainty what will occur, I
+might be causing harm without intending to do so. My lived experience in turn also
+informs my view: having myself commuted in San Francisco and been faced with
+disturbing or even threatening behavior on the part of someone who appeared to be
+homeless, I usually feel uneasy or doubtful when faced with similar interactions.
+Where I am uncomfortable or unsafe, I don't believe I am morally required to engage.
+
+Also, I recognize that part of my motivation to help may be self-serving—I might
+give money just to feel like a good person. That would make my intention
+questionable from a Kantian point of view. And since I’m not a good judge of whether
+someone will use the money constructively, I worry that my action could
+unintentionally support harmful behavior. Therefore, while I acknowledge that some
+people may be genuinely in need, I don’t think I am morally obligated to give money in
+these uncertain conditions.
+"No one has ever become poor by giving," Anne Frank recorded in her famous
+diary. While this statement embodies the spirit of charity, it also challenges us to
+consider more deeply how we give. I argued in this paper why we should not give a
+$20 donation to the street homeless person from an ethical standpoint under Kantian
+and utilitarian approaches. From Kantian ethics, we learned that we consider the
+action good based on whether or not our intent was respectful to others as ends in
+themselves. Utilitarianism, as taught by Singer, demonstrated to us that the morality
+or immorality of an action depends on its consequences, and that we must consider
+whether our actions actually reduce suffering. Giving the money directly is ethically
+risky in this situation. It could inadvertently fund addiction or be based on ulterior
+motives. Both theories suggest that careful, reflective charity is preferable to
+spontaneous, feel-good charity. Finally, moral living involves not just charity, but also
+wisdom. As Anne Frank reminds us, giving is powerful, but only if it really makes a
+difference.
+`
   },
   {
     content:
-      "One of the most valuable aspects of this course has been its focus on developing the skill of reading articles and current affairs news effectively. This skill not only kept me abreast of the latest news in my field but also enhanced my ability to critically analyze it. For instance, in a recent discussion, we delved into the review bombing of Helldrivers 2, a topic that challenged our preconceived notions. By examining similar instances of review bombing in films like Ghostbusters and Miss Marvel, we gained a deeper understanding of how this practice is often employed negatively. This course also provided a platform for engaging discussions and thought experiments, which I found particularly enriching. These discussions not only broadened my perspective but also helped me connect with my peers and engage in ethical dialogues. For example, one memorable discussion revolved around the importance of gender representation in media. When the lead actress in Miss Marvel emphasized the need for more female reporters in journalism, it sparked a meaningful conversation about diversity and representation. However, one aspect of the course that proved challenging for me was the weekly writing requirement. As a computer science major, I found it difficult to consistently produce 500-700 words per week. This challenge sometimes led me to include filler words in my essays to meet the word count. To address this, I believe reducing the word count to 300-400 words in future iterations of the course would enhance the focus and clarity of our writing assignments. I believe the professor had well-structured lecture plans. I knew what to expect coming into the class: we would first hear about the latest news, which would then lead to the week's topic, and then we would switch to the essay topic.",
+    `First:
+
+One thing I really liked about this class is how it gave me skills to communicate with anyone. For example, I can now bring up classic thought experiments like the Ship of Theseus—if you replace every part of a ship, is it still the same ship?—or Sisyphus and the stone—where a man keeps pushing a stone up a hill only for it to roll back down. These kinds of philosophical riddles are great conversation starters with all kinds of people. They get others thinking, and they often lead to deeper discussions. I think a year from now, and even five years from now, I’ll still remember these kinds of problems because they stick with you and they challenge how you think. This part of the class was especially memorable because it made philosophy feel real and applicable—not just abstract ideas, but tools for meaningful conversations and self-reflection.
+
+ 
+
+Second:
+
+One change I would suggest for the future is to include even more of these types of riddles or thought experiments. They made the lectures much more engaging. I think a great structure would be: start each lecture with a philosophical riddle, have a short class discussion to gather different viewpoints, then the professor could explain the philosophical theories behind it—like Nietzsche’s or Plato’s—and finally ask students if their views have changed. This would do two things: it would make the philosophical ideas stick more clearly, and it would make the whole experience more interactive and memorable.
+
+ 
+
+I still remember some of my answers from earlier in the semester and now, after everything I’ve learned, I actually disagree with myself on many of them. For example, we discussed the idea of a machine that gives you constant pleasure. I originally said yes, I would go in. But over the semester, I’ve come to realize that happiness by itself isn’t everything. To truly appreciate happiness, you also have to experience sadness. If you’re feeling pleasure all the time, it loses its meaning. That shift in thinking is something I’ll carry with me for a long time.`,
   },
 ];
 const questions = [
   {
     question1:
-      'Could you kindly explain the notion of eudaimonia? I realize that it is sometimes interpreted as "human flourishing" or "a life well-lived," but is eudaemonia achievable through virtue?',
+      'Who is Socrates? How is he related to Plato? ',
     question2:
-      "For example, is lying virtuous when someone tells a white lie to save another person's feelings? Would Aristotle consider this virtuous?",
+      "What are the two formal charges against Socrates? How does he respond to the two formal charges?",
     question3:
-      "I believe Kant's categorical imperative and Aristotle's virtue theory are interconnected. Both frameworks appear to provide direction for moral decision-making, but they do so from opposite perspectives: one focuses on universal rules derived from pure reason, while the other emphasizes the formation of virtuous character via habituation and practical knowledge?",
-  },
-  {
-    question1: "I had a confusion between negative and positive rights?",
-    question2:
-      "I am also curious about the difference between deontological and teleological ethics? Is healthcare negative or positive right?",
-    question3:
-      " Veil of ignorance is a concept introduction on page 34, but can it be explained with an example?",
-  },
-  {
-    question1: " Don't data brokers also make your life easier?",
-    question2:
-      " Sometimes we are unaware that a product exists until we are targeted by a company's advertising. So it raises a question how bad are data brokers?  For example: If someone frequently searches for camping gear and outdoor activities online, data brokers can collect this information and provide it to advertisers. As a result, the person may see ads for camping equipment, hiking boots, and outdoor clothing on their social media feeds, that might be cheaper than mainstream products.",
-    question3:
-      "The narrative from the video is that data broking is unethical, but I believe from a utilitarian perspective it is Ethical. Benefits of Data Brokering: Lower prices for consumers due to targeted advertising and marketing. Improved services and products through data-driven insights. Economic growth and innovation facilitated by data analytics. Drawbacks of Data Brokering: Privacy concerns and risks of data breaches. Lack of transparency and control over personal information. ",
-  },
-  {
-    question1: " Is fake advertising ethical or unethical?",
-    question2:
-      " Did the FBI not use the AFP and the “third” country to circumvent the rules in the USA? Context: The FBI strategically chose to partner with the Australian Federal Police (AFP) in Australia. This decision was influenced by the fact that Australia had recently enacted the Telecommunications and Other Legislation Amendment (Tola), which granted law enforcement agencies the authority to compel telecommunications providers to allow authorities to intercept criminal messages.",
+      "Why does Socrates believe he is the smartest man alive? Why are the people (for example, poets and craftspeople) who Socrates “examines” unwise despite the fact that they have knowledge?",
+    question4:
+      "What is Socrates’ argument that death can not be bad?",
+    question5:
+       "Socrates’ claim that “the unexamined life isn’t worth living” is highly influential in Western philosophy. Do you agree?",
+    question6:
+      "If you were in Socrates’ position, what would you have done if put on trial?",
+    question7:
+     "Why is this article so cool (in other words, why do you think this article was assigned?",
 
+  },
+  {
+    question1: "What is Wolf’s analysis of a meaningful life (in one sentence)?",
+    question2:
+      "What are Wolf’s examples of meaningful lives? Do you agree?",
     question3:
-      "The ethical dilemma faced by law enforcement agencies in balancing the need to prevent crime with the protection of privacy rights. The use of An0m allowed law enforcement to monitor the communications of criminals, but it also raised concerns about the potential for abuse and the erosion of trust in encrypted communications.",
+      "Why does Wolf believe a meaningful life requires active engagement? A project of positive value. Why must these projects be somewhat successful?",
+    question4: 
+      "What is the relationship between a meaningful life and a moral life? Do you agree? Why? Why should we care about living a meaningful life?",
+    question5:
+      "For Wolf, is a meaningful life a pleasurable life? Why or why not?",
+    question6:
+      "Wolf says that we are tiny specks in the universe. Do you take this to be a comforting idea? Why or why not? ",
+    question7:
+      "Why is this article so cool (in other words, why do you think this article was assigned?",
+  },
+  {
+    question1: " What is the sameness of soul view? What is a criticism of this view?",
+    question2:
+      "Describe what you take a soul to be? Do you believe you have a soul? ",
+    question3:
+      "What is the soul body composite view? What is a criticism of this view? ",
+    question4:
+      "What is the sameness of body view? What is a criticism of this view?",
+    question5:
+      "What is the memory criterion? What is a criticism of this view?",
+    question6:
+      "Which view do you lean towards? Why?",
+    question7:
+      "Why is this article so cool (in other words, why do you think this article was assigned?", 
+  },
+  {
+  question1: "Why does Descartes decide to doubt everything?",
+  question2:
+    "What is the dream argument? Do you agree with it?",
+  question3:
+    "Give your best counter-argument to the dream argument (even if you agree with Descartes).",
+  question4:
+    "Why does Descartes assume there is an evil demon? What is this evil demon doing? How does this fit into Descartes’ method of doubt?",
+  question5:
+    "What is the Cogito? How is it a reply to the dream argument and the evil demon argument?",
+  question6:
+    "Do you believe that the external world (friends, cars, iphones, snickers, your shirt, etc.) exists? What is your justification for believing this?",
+  question7:
+    "Why is this article so cool (in other words, why do you think this article was assigned?",
   },
   {
     question1:
-      "What role do corporate entities play in shaping the online environment, and how do their interests align or conflict with those of users and activists?",
+    `What does Eros mean? How does is differ from the two other concepts of love found in the video "Why Love is a Useless Word".`,
+    question2:
+      "What is Aristophanes' view on love? Summarize in about 100 words. Do you agree? Why or why not? (Refer to the video \"The Myth of the Missing Half\")",
+    question3:
+      "What is Agathon's view on love? Summarize in about 100 words. Do you agree? Why or why not?",
+    question4:
+      "Who is Diotima? What does Socrates say about her?",
+    question5:
+      "What is Diotima's (and hence Socrates') view on love? Summarize in about 100 words.",
+    question6:
+      "Why is this article so cool (in other words, why do you think this article was assigned?",
 
+  },
+  {
+    question1: "Give three examples of misogyny or sexism. What is wrong with this behavior?",
     question2:
-      "The FOSTA-SESTA bill, states it aims to combat sex trafficking. but it had more negative consequences for vulnerable populations. The bill's broad language lead to censorship of legitimate speech, including that of sex workers and trans individuals. It  also make it more difficult  individuals to access resources online. The bill's reliance on website owners to police content could lead to over-removal of content. ",
+      "In your own words, describe what is odd about Rush Limbaugh's comments on Sandra Fluke.",
+    question3:
+    `What does Manne mean when she says "Rather than conceptualizing misogyny from the point of view of the accused, at least implicitly, we might move to think of it instead from the point of view of its targets or victims"?`,
+    question4:
+      "What is the relationship between patriarchy and misogyny on Manne's view?",
+    question5:
+      "What idea is Manne illustrating with the tragic example of Rosetta Watson?",
+      question6:
+      "What is the relationship between misogyny and a misogynist? When is it justified to call someone a misogynist?",
+    question7:
+      "What is the relationship between misogyny and sexism? Explain the difference between the two on Manne's account?",
+  },
+  {
+    question1:
+      " What is Glaucon’s challenge?",
+      question2:
+      "What is the moral reasons approach? The prudential approach?",
+    question3:
+     "Name the five theories of well-being that Tiberius discusses and summarize each of them in one sentence each.",
+    question4:
+      "For each of these theories, briefly summarize the psychological evidence that doing the right thing leads to well-being.",
+    question5:
+      "Do you agree that doing the right thing leads to well-being? ",
+    question6:
+      "Do you believe that Tiberius answers Glaucon’s challenge? ",
+    question7:
+      "Why is this article so cool (in other words, why do you think this article was assigned?",
+  },
+  {
+    question1: `Who was Confucius? What type of examples can be found in Confucius’ Analects? What is the central philosophical question for Confucius? `,
+    question2:` What is the fragmented world? What role do our emotional responses play? How can we gain some control over it?`,
+    question3: `What is a ritual? Give two of your own examples of rituals.`,
+    question4: `What is an as-if world? How do we create an as-if world? Who do rituals benefit and how does this relate to an as-if world?`,
+    question5: `Why are “please” and “thank you” important? Why is it important to repeat rituals?`,
+    question6: `What is the confucian critique of authenticity? Do you agree with it? Why or why not?`,
+    question7: `Why is this article so cool (in other words, why do you think this article was assigned?`,
+  },
+  {
+    question1: `What is Kant’s supreme moral principle called? What formula does O’Neill discuss? State the formula in your own words.`,
 
-    question3:
-      "The FOSTA-SESTA bill, which seeks to combat sex trafficking, shares similarities with Section 230 of the Communications Decency Act. Both bills aim to address online content that may be harmful or illegal. They both contain broad language that could lead to the censorship of legitimate speech. They both rely on website owners to police content, which could lead to over-removal of content.",
+    question2: `What is a maxim? How does it fit into Kant’s theory?`,
+
+    question3: `What does it mean to use someone as a means? How about a mere means? Give examples.`,
+
+    question4: `Why is deception wrong for Kant? Give a detailed analysis.`,
+
+    question5: `What is beneficence? Give an example. How does it relate to moral duty? `,
+
+    question6: `What are the limitations of Kantian ethics? How are the limitations different than those of Utilitarianism?`,
+
+    question7: `Why is this article so cool (in other words, why do you think this article was assigned?`,
   },
   {
-    question1:
-      "What does it mean when you say there has to be some sense of novelty?",
-    question2:
-      " For example, In copyright infringement, there has to be some sort of novelty. If that is the case, then can the New York Times sue ChatGPT for using their article to train the model, considering there can be 1,000 articles published on the same topic by different companies?",
-    question3:
-      "Is copyrighting ethical, similar to the question of whether downloading a book for the course is ethical or unethical?",
+    question1: `What is Singer's main moral principle? `,
+    
+    question2: `What is the drowning child example? What does Singer think it shows?`,
+
+    question3: `What does Singer think that we have an obligation to do? `,
+
+    question4: `For Singer, proximity to suffering doesn't matter. Why not?`,
+
+    question5: `For Singer, it doesn't matter if others could help reduce suffering as well. Why not? `,
+
+    question6:  `Will you radically change your life due to Singer's philosophical arguments? Why or why not? `,
+
+    question7: `Why is this article so cool (in other words, why do you think this article was assigned?`,
   },
   {
-    question1:
-      "What is the main argument that Stallman makes against having owners of software?",
-    question2:
-      "How might Stallman's theory of software freedom apply to the development of textbooks? Stallman believes that software should be free, meaning that users should have the freedom to use, copy, modify, and redistribute the software without paying royalties or fees. He argues that this leads to a more efficient and productive software development process. If we apply this idea to any other field, it fails; for example, in textbooks or the medical field.",
-    question3:
-      "How does Stallman's view of software ownership relate to the broader concept of public goods? by public good i mean non-rivalrous (meaning that one person's use of the good does not prevent another person from using it) and non-excludable (meaning that it is difficult to prevent people from using the good)",
+
+    question1: "Who was Frederich Nietzsche? Make sure you spell his name correctly, it's a tough one. ",
+    question2: " What is a genealogy? What is Nietzsche's genealogy of morality?",
+    question3: "What does Nietzsche mean in the following quote. It's not easy, but do your best: 'With [the invention of bad conscious], however, the worst and most insidious illness was introduced, one from which mankind has not yet recovered; man’s sickness of man, of himself: as the result of a forcible breach with his animal past, a simultaneous leap and fall into new situations and conditions of existence, a declaration of war against all the old instincts on which, up till then, his strength, pleasure and formidableness had been based.",
+    question4: "What is the slave (or ignoble) morality? What is the noble morality?",
+    question5: "What does Nietzsche mean in the following quote. It's not easy, but do your best: 'The beginning of the slaves’ revolt in morality occurs when ressentiment itself turns creative and gives birth to values: the ressentiment of those beings who, denied the proper response of action, compensate for it only with imaginary revenge. Whereas all noble morality grows out of a triumphant saying ‘yes’ to itself, slave morality says ‘no’ on principle to everything that is ‘outside’, ‘other’, ‘non-self’: and this ‘no’ is its creative deed. This reversal of the evaluating glance – this essential orientation to the outside instead of back onto itself – is a feature of ressentiment: in order to come about, slave morality first has to have an opposing, external world, it needs, physiologically speaking, external stimuli in order to act at all, – its action is basically a reaction.'",
+    question6: "What is Nietzsche's explanation for the origin of modern morality?",
+    question7: "Why is this article so cool (in other words, why do you think this article was assigned?",
   },
   {
-    question1:
-      "Is ethical hacking justified? For example: Chrysler recalled 1.4 million vehicles in 2015 after ethical hackers were able to remotely hijack a Jeep while someone was driving. Ethical Hacker hacked Just to prove that the smart lock system used by the car manufacturer was vulnerable to cyberattacks?",
-    question2:
-      "Did white hat hackers go too far in their efforts to find vulnerabilities in smart home technology?  Explaination: when ethical hacker Charles Dardaman gained access to the admin password of a smart home hub, he could have accessed sensitive information stored on user's devices. While Dardaman claims he didn't access the information because it would have been illegal, it raises the question of whether white hat hackers should have any limits on the tactics they use to find vulnerabilities.",
-    question3: "Are white hat hackers not violating The Fifth Amendment Act?",
   },
   {
-    question1:
-      "Does Uber's business model create incentives for drivers to engage in unsafe practices?",
-    question2:
-      " What are the ethical implications of Uber's use of surge pricing?",
-    question3:
-      "What are the potential consequences of Uber's reliance on independent contractors?",
-  },
-  {
-    question1:
-      "What specific measures has Facebook implemented to combat state-backed political manipulation on its platform globally?",
-    question2:
-      "The loophole in Facebook's policies,  allows users to create multiple Pages with fake likes, is it ethical especially in countries like Azerbaijan?",
-    question3:
-      "How does Facebook address platform abuse and the potential damage to its public image?",
-  },
-  {
-    question1:
-      "What were the key factors that contributed to the downfall of the Terra ecosystem and the collapse of the LUNA and UST tokens?",
-    question2:
-      "In what ways did the flawed algorithmic design of UST contribute to the catastrophic failure of Terra?",
-    question3:
-      "What do experts think about the future evolution of the stablecoin sector?",
-  },
-  {
-    question1:
-      "Why do we need ACM? I feel all the ethics listed in the ACM is virtue ethics, that just makes us good human. ",
-    question2:
-      "Do you think Ray's predictions that we will have a working computer human brain came true? ",
-    question3:
-      "Why does ACM resonate more with virtue ethics rather than utilitarian ethics? ",
-  },
-  {
-    question1:
-      "The Animatix: raises a question of obsolescence, what to do when robots start to replace humans?",
-    question2:
-      'B166er robot,  raised a very important question for the future, should robots be considered the property of Humans? Fun fact: The term "Robot" stems from the Czech "Robota" which means forced labor (slave). ',
-    question3:
-      "If consequentialism doesn't allow for one to distinguish artificial intelligence from otherwise similar biological ones. Does that mean artificial intelligence are same as human beings? Consequentialism: the doctrine that the morality of an action is to be judged solely by its consequences.",
+    question1: `The allegory of the cave is one of the most famous passages in Western philosophy. Describe the scenario in the cave.`,
+
+    question2: `What do people think about the shadows of the puppets they see cast along the wall.`,
+
+    question3: `What happens when someone leaves the cave?`, 
+
+    question4:  `What happens when that person returns to the cave and tells everyone what they've seen?`,
+
+    question5: `Does Plato think we should try to leave the "cave" of ignorance? Or should we stay inside?`, 
+
+    question6: `This is an allegory, which means it has a deeper meaning. What do you think is Plato's point in this passage?`,
+    question7: `Why is this article so cool (in other words, why do you think this article was assigned?`, 
   },
 ];
 
 const answers = [
   {
-    id: 3,
-    answer:
-      "Kant's categorical imperative is a deontological ethical theory that emphasizes universal rules and duties. According to Kant, an action is morally right if it can be universalized, meaning that everyone could act in the same way in a similar situation without leading to logical contradictions. For example, lying would be considered morally wrong according to Kant because if everyone lied all the time, trust and communication would break down. On the other hand, Aristotle's virtue ethics focuses on developing virtuous character traits, such as courage, honesty, and compassion, through habituation and practical wisdom. Aristotle believed that by cultivating these virtues, individuals could achieve eudaimonia, or flourishing, which is the ultimate goal of human life. Unlike Kant, who emphasizes following universal rules, Aristotle's virtue ethics is more concerned with the moral character of the individual and the cultivation of virtuous habits. Despite their differences, these two ethical theories can be seen as complementary. Kant's emphasis on universal rules can provide a framework for evaluating the moral worth of actions, while Aristotle's focus on character development can help individuals cultivate the virtues necessary to make morally right decisions in specific situations.",
+    answer1: " Socrates was an ancient Greek philosopher known for his method of questioning. He engaged in dialogues that challenged people’s beliefs about morality and the good life. He was put on trial in 399 BC for his philosophical activities. Socrates is related to Plato as his teacher; Plato was a student of Socrates and recorded his teachings, including The Apology.",
+    answer2: "The two formal charges against Socrates were: i. Corrupting the youth – He was accused of misleading young Athenians through his questioning and philosophical discussions. ii. Impiety (not believing in the gods of Athens and introducing new divinities) – He was accused of denying the traditional gods and believing in new spiritual entities. Socrates responded by arguing that he was not corrupting the youth but rather encouraging them to think critically. He pointed out that if he were corrupting them, someone should have come forward with proof. Regarding impiety, he countered that he could not simultaneously believe in spiritual matters and be accused of not believing in gods, as spiritual entities (demigods) are connected to the divine.",
+    answer3: " Socrates believes he is the smartest man alive because the Oracle at Delphi proclaimed that no one was wiser than him. After investigating the claim, he realized that his wisdom lay in knowing that he was not truly wise. The poets, politicians, and craftspeople he examined were unwise because, although they possessed technical or artistic knowledge, they falsely believed themselves to be wise in other matters as well. Socrates recognized that true wisdom is understanding one’s own ignorance.",
+    answer4: "Socrates argues that death cannot be bad because it is either: i. A state of nothingness and unconsciousness – which would be like a peaceful, dreamless sleep and therefore not a suffering. ii. A journey to another world – where he could meet and question historical figures like Homer and Achilles, continuing his philosophical inquiries. In either case, he sees no reason to fear death.",
+    answer5: "I could argue that happiness and fulfillment do not necessarily require constant questioning.",
+    answer6: "If I were in Socrates’ position, I would have likely tried to defend myself in a way that appealed more to the jury, possibly offering a compromise or a less confrontational argument to avoid the death sentence while still upholding my philosophical beliefs.",
+    answer7: "This article is significant because it presents fundamental philosophical ideas about wisdom, ethics, and the role of questioning in society. It highlights the importance of intellectual humility and critical thinking, which are still relevant today. It also shows the consequences of challenging societal norms and the value of staying true to one’s principles.",
   },
   {
-    id: 2,
-    answer:
-      "Deontological ethics, often associated with philosopher Immanuel Kant, focuses on the inherent rightness or wrongness of actions themselves, regardless of the consequences. According to this view, certain actions are inherently moral or immoral, and individuals have a duty or obligation to follow certain rules. Teleological ethics, on the other hand, is a consequentialist approach that evaluates the morality of an action based on its outcomes or consequences. This perspective is often associated with utilitarianism, which holds that the right action is the one that produces the greatest overall happiness or good for the greatest number of people.Regarding healthcare, the question of whether it is a negative or positive right depends on the ethical framework one adopts. From a deontological perspective, healthcare could be seen as a positive right, meaning that individuals have a right to receive healthcare services because it is their moral entitlement. This view is based on the idea that access to healthcare is necessary for individuals to lead healthy and fulfilling lives, and that society has a duty to provide this access. From a teleological perspective, healthcare could also be considered a positive right, as providing healthcare can lead to positive outcomes such as improved health, increased well-being, and greater overall happiness for individuals and society. By ensuring access to healthcare services, society can maximize the overall good for its members.",
+    answer1:
+      "According to Susan Wolf, a meaningful life is one that is actively and at least somewhat successfully engaged in a project or projects of positive value",
+    answer2:
+     `She highlights figures like Gandhi, Einstein, and Mother Teresa—people deeply engaged in pursuits of value. She also acknowledges artists, scientists, and even athletes whose work contributes something valuable.
+• Figures known for their moral virtue or accomplishments, such as Gandhi and Mother Theresa.
+• Figures who are not necessarily moral, such as Gauguin, Wittgenstein, and Tchaikovsky.
+• Athletes, scholars, and musicians who develop their skills and understanding of the world.
+• Ordinary people (neighbors, colleagues, and relatives)Wolf also contrasts these examples with lives she considers meaningless, such as those of:
+• "The Blob," a person who spends their life passively watching television.
+• The idle rich, who engage in silly, decadent, or useless activities.
+• The corporate executive, who works excessively for the sole purpose of accumulating personal wealth.
+• The pig farmer, who buys more land to grow more corn to feed more pigs to buy more land`,
+    answer3:
+      `Because mere existence or passive living (like “The Blob” watching TV all day) lacks meaning. Engaging in valuable projects provides a sense of purpose, but they must be somewhat successful to avoid a sense of failure or futility (as in her “Bankrupt” example of a scientist whose work becomes obsolete before completion). But in the end Wolf does acknowledges that it may not be easy to determine what counts as the right kind or degree of success.`,
+    answer4:
+      `Wolf argues that meaningful lives aren’t necessarily moral—great artists or athletes might lead meaningful lives without being morally exceptional. However, we should care about living meaningfully because it aligns our lives with a larger reality beyond ourselves, making life feel worthwhile. I’d agree, but morality and meaning often overlap in fulfilling ways.`,
+    answer5:
+    `Not necessarily. A meaningful life can be fulfilling but also involve struggle, sacrifice, or even suffering. It’s not about pleasure but about deep engagement with things that matter.`,
+    answer6:
+    `It depends on perspective—some find it unsettling (making life feel insignificant), but Wolf reframes it as an opportunity to align ourselves with meaningful projects, making peace with our smallness. I’d say it’s comforting if we accept that meaning isn’t about cosmic significance but about what we contribute within our limited scope.`,
+    answer7:
+      ` Because it challenges both nihilism and self-centered definitions of meaning, offering a balanced perspective: we don’t need divine purpose to live meaningfully, but meaning isn’t purely subjective either. It pushes us to think critically about what makes life feel truly worthwhile.`,
   },
   {
-    id: 1,
-    answer:
-      "Data brokers can make life more convenient by providing targeted services and products based on our preferences and needs. For example, they can help recommend products we might like, suggest relevant content, or streamline processes like applying for loans or insurance. However, the convenience comes at the cost of privacy and security. Data breaches and misuse of personal information are common issues, highlighting the risks of relying on data brokers. Companies collecting and selling data without adequate protection or consent raise concerns about privacy and the potential for abuse. So while data brokers can offer convenience, the trade-off is a complex mix of benefits and risks that individuals need to consider.",
+    answer1:  `The Soul Lives On idea says that people have an invisible part called a soul that can think and make choices. There are different beliefs about where souls come from:
+
+Creationalism: God makes a new soul for every baby at birth.
+
+Preexistentism: Souls have existed forever, and God gives them to people when needed.
+
+Traducianism: The soul of Adam, the first man, is passed down through generations.
+
+People who believe this think that souls can exist without bodies. In the afterlife, these souls may have experiences like dreams. Richard Swinburne says that the soul is the part of us that thinks and feels, and it is connected to the brain but also created by God.
+
+Problems with This Idea:
+Telling Souls Apart: If souls have no physical form, how do we know one soul from another? 
+
+Same Soul Over Time: If a soul changes, for example, through a religious conversion, how do we know it’s still the same soul?`,
+
+ answer2: `I believe that people are made up of both soul and body. I don’t believe in an afterlife. My religion has a concept of rebirth. We keep taking births until we’ve done more good than bad. Once we achieve that, our soul is freed from the pain of constant rebirth.`,
+
+answer3: `Thomas Aquinas’s soul-body composite view sees a human as a combination of soul (form) and body (matter):
+
+The soul is the form of the body, giving it identity.
+
+The body provides the matter, while the soul allows thinking and willing.
+
+After death, the rational soul persists in an intermediate state until reunited with the body at resurrection.
+
+The soul alone is incomplete; it cannot sense or feel, only think and will.
+
+Criticism:
+
+New Category Problem: Aquinas introduces the soul as a "subsisting entity" that is neither a full substance nor a mere property.
+
+Ontological Tension: If the human being is a body-soul composite, yet the soul alone can experience the beatific vision, which has priority?
+
+Individuation Issue: If souls are defined by the bodies they reunite with, but the body’s identity depends on the soul, how do they remain distinct?
+`,
+ 
+
+answer4: `This idea says that a person is the same as their body. For resurrection to happen, the body must be the same as it was before death:
+
+One version says God brings back the original body using the same particles.
+
+Another version says as long as the body keeps changing gradually, it remains the same over time.
+
+Problems with This Idea:
+The Cannibalism: If one person’s body is made up of parts from another person’s body, who gets which pieces in the afterlife?
+
+Destroyed Bodies: If someone’s body is completely destroyed, does rebuilding it from the same materials really make it the same body?
+
+Changing Nature of the Body: A body that was once weak and breakable cannot logically become strong and unbreakable while staying the same.`,
+
+answer5: `This idea says that a person is the same if they keep their memories. If someone in the afterlife remembers everything about their earthly life, then they are the same person.
+
+Problems with This Idea:
+What If There Are Two? If two people in the afterlife have the exact same memories from one person, are they both the same person? This leads to a logical contradiction.
+
+A Religious Solution: Some believe God would never allow two people to have the same memories, which would prevent this problem from happening.`,
+
+answer6: "I believe there is a soul but not afterlife.",
+
+answer7: `This article helps us think about life after death by, Explaining different religious and philosophical views on resurrection and identity.`,
   },
   {
-    id: 2,
-    answer:
-      'Yes, the FBI strategically partnered with the Australian Federal Police (AFP) in Australia to circumvent certain rules in the USA. This decision was influenced by Australia\'s recent enactment of the Telecommunications and Other Legislation Amendment (Tola), which granted law enforcement agencies the authority to compel telecommunications providers to allow authorities to intercept criminal messages. By partnering with the AFP and possibly using a "third" country, the FBI likely aimed to leverage the more permissive legal environment in Australia to access information or conduct operations that may have been more challenging or restricted under US laws.',
+    answer1:
+      "Descartes doubted everything to find something certain and indubitable. He wanted to establish a foundation for knowledge that could not be doubted, leading to his famous conclusion, \"Cogito, ergo sum\" (I think, therefore I am).",
+    answer2:
+      "The dream argument suggests that there is no definitive way to distinguish between dreaming and waking life. Descartes argues that since dreams can be indistinguishable from reality, we cannot trust our senses. I agree with this argument because it raises questions about the reliability of our perceptions.",
+    answer3:
+      "A counter-argument to the dream argument is that even if we cannot always distinguish dreams from reality, we can still rely on consistent experiences and logical reasoning to navigate our lives. The existence of an external world can be inferred from the coherence of our experiences.",
+    answer4:
+      "Descartes assumes the existence of an evil demon to illustrate the extent of his doubt. The demon deceives him into believing in a false reality, which fits into his method of doubt by pushing him to question everything he perceives.",
+    answer5:
+      "The Cogito is Descartes' realization that his ability to think proves his existence. It serves as a reply to the dream argument and the evil demon argument by establishing a foundation of certainty: even if everything else is doubted, the act of thinking confirms one's existence.",
+    answer6:
+      "I believe the external world exists based on consistent sensory experiences and logical reasoning. My justification lies in the coherence of my interactions with the world and the predictability of its behavior.",
+    answer7:
+      "This article is significant because it explores fundamental questions about knowledge, reality, and existence. It challenges us to consider the nature of our perceptions and the foundations of our beliefs.",
   },
   {
-    id: 1,
-    answer:
-      "Corporate entities, like Cloudflare in the case of Kiwi Farms, play a significant role in shaping the online environment. They provide essential services such as internet security and hosting, which are crucial for websites to function. However, their interests can sometimes conflict with those of users and activists. In the case of Kiwi Farms, Cloudflare's decision to drop the site was in response to pressure from activists who highlighted the harm caused by the forum's campaigns of intimidation and harassment. While this decision aligns with the interests of those seeking to combat online abuse, it also raises questions about the role of corporate entities in regulating online content and the balance between free speech and the prevention of harm. Corporate entities often face a delicate balancing act between protecting their users and maintaining the integrity of their services while also upholding principles of free speech and expression.",
+    answer1:
+    "Eros, based on Plato’s Symposium, is not just a god but a spirit (daimon) mediating between the divine and mortal. Love is born from Poverty (Penia) and Plenty (Poros), making it both needy and resourceful, a seeker of wisdom (philosopher). Love desires the everlasting possession of the good, aiming for immortality through procreation—either physically or through wisdom and virtue.",
+    answer2:
+      `Aristophanes defines love as the pursuit of our missing "other half." Human beings in their early days were spherical creatures having four limbs, four legs, and two faces—triple the kind. 1. Male-male (Sun) 2. Female-female (Earth) 3. Male-female (Moon) Zeus enacted the segregation of people into pairs as punishment for their excessive conceit. Ever since then, mankind has desired the reunited halves. This explanation defines the nature of romantic attraction and intense emotional connection, sexuality based upon the basic nature of an individual. As per Aristophanes, love is the desire to be complete again.`,
+
+   answer3: `Agathon sees Love as the youngest, fairest, and most virtuous of gods. Love is graceful, wise, just, courageous, and the source of beauty and poetry. He describes Love as:
+
+• Gentle and residing in nurturing atmospheres (feelings, mood, blossoms).
+
+• A festive appreciation, promoting organization and augmenting innovation within artistic and scientific endeavors.
+
+• A force that assures balance and moral purity amongst godly creatures and man.
+
+For Agathon, Love is an ideal being, embodying all virtues and guiding humanity toward beauty and excellence.`,
+
+ 
+
+
+answer4: `Diotima is a wise woman from Mantineia who taught Socrates about love. He calls her his teacher in the art of love, saying she was “wise in many things” and even delayed a plague in Athens. Socrates concedes ignorance and asks for her advice, often expressing dismay at the depth of her understanding. She teaches the concept that Love is not a god but a spirit (daimon), ever tending towards wisdom and beauty. He warmly receives her lessons, believing that they are the genuine nature of love and its intended aim.`,
+
+ 
+
+
+answer5: `Diotima, through Socrates, teaches that love is not a god but a daimon, born from Poverty and Plenty, making it both needy and resourceful. Love is a seeker of wisdom (a philosopher), constantly striving for the good and the beautiful.
+
+Love’s ultimate goal is immortality, achieved through:
+
+• Biological reproduction (progeny)
+
+• Spiritual procreation (wisdom, virtue, and intellectual creation)
+
+Love evolves slowly, starting from physical attraction to the appreciation of the notion of absolute Beauty, eventually leading people to real virtue and enduring fulfillment.`,
+
+ 
+answer6: `This account forms a crucial analysis because it states the complex view that the ancient Greeks held about love that was not limited to romantic understandings but included intellectual and religious aspects. It defines categories like Philia (friendship), Eros (lust), and Agape (beneficent love), thus providing new understandings about the nature of love that go beyond emotional understanding.`,
   },
   {
-    id: 1,
-    answer:
-      "When we say there has to be some sense of novelty, we're referring to the requirement for intellectual property protection, such as trademarks or patents, to be granted. In the context of fashion and design, this means that the design or concept should be sufficiently original or unique to warrant legal protection. If a design is considered too similar to existing designs or lacks significant creative innovation, it may not meet the threshold for novelty required for intellectual property protection. This concept is important in cases like the Vans lawsuit against Target, where the issue revolves around whether Target's design of the Camella Lace-Up Sneaker is too similar to Vans' Old Skool skater shoe, which has a trademarked white squiggle design.",
+    answer1:
+    `Misogyny (Example 1): Rush Limbaugh directly called Sandra Fluke a "slut" and a "prostitute" after she fought for the inclusion of birth control in health insurance plans. This behavior is concerning because it is a highly personal and insulting attack, not intended to address her point but to discredit Fluke. Limbaugh misrepresented Fluke's argument by portraying her claim as a demand for taxpayer-funded sex, thus reducing it to an insulting caricature. Additionally, these statements depicted a demonstration of irrational hatred, as he oscillated between seeing himself as financially exploited (the "john") and taking on the role of the manipulator (the "pimp") to Fluke.
+ 
+
+Sexism (Example 2): Former Australian Prime Minister Tony Abbott asked, “What if men are by physiology or temperament more suited to exercise authority or to issue command?” In addition, he asked, “If it’s true that men have more power generally speaking than women, is that a bad thing?” This statement illustrates a sexist attitude since it aligns with the belief that men have an inherent aptitude for leadership positions, and women are inherently less capable of holding positions of power. These beliefs help rationalize systemic gender disparities in all fields, including politics and business, thus perpetuating patriarchal norms that effectively exclude women from positions of power.
+
+Misogyny (Example 3): The case of the disabled Black woman Rosetta Watson is a prime example of structural misogyny. Despite multiple attempts to approach the authorities for help concerning domestic violence, she was derogatorily labeled as a “nuisance” and ultimately made homeless. This example is all the more concerning because it shows how systemic policy can punish women—particularly marginalized ones—for seeking help. Rather than protecting her against violence, the system made her vulnerable instead, highlighting the fact that misogyny is not just implemented by individual actors but also maintained through societal structures. Moreover, the case is a prime example of misogynoir—an intersection between misogyny and anti-Black racism—oftentimes leading not just to harsher consequences but also towards an entrenched institutional indifference towards Black women.
+
+ `,
+    answer2:
+
+    `The comments made by Rush Limbaugh regarding Sandra Fluke are curious, most notably the intense level of outrage he displayed and the bizarre personal fixation he had upon someone he had not met. Fluke was merely advocating the inclusion of contraceptive care within insurance plans; nevertheless, Limbaugh saw her argument as calling for taxpayer support for her sex life. He went on further and called her a “slut” and a “prostitute” and assumed she was trading sexual favors for government support—this is a gross misinterpretation of her actual stance.`,
+    answer3: `Manne assumes that instead of analyzing misogyny through the psychological inclinations or goals of the men who practice it, attention must focus upon its concrete consequences for women. This shift involves requiring misogyny to be considered not through the question of whether the abuser feels a complete hatred towards women but through the degree by which behaviors, social expectations, or structural configurations create a harmful environment for women.
+Instead of questioning someone's intent behind displaying misogynistic behavior, it is more appropriate to ask the question: Are women undergoing systematic punishment, exclusion, or hostility within certain social contexts? This helps better understand misogyny as a social and structurally embedded phenomenon and not just as something individualist or expressed through open hostility.`,
+    answer4: `Manne explains that misogyny is a tool used for the perpetuation of patriarchy. Whereas patriarchy is a system that benefits men over women, misogyny is the means used for policing and punishing women who defy or deviate from the set patriarchal norms.`,
+    answer5: `Manne uses the example of Rosetta Watson to illustrate the operation of misogyny in institutional contexts and to show how it intersects with other oppressions, such as racism and ableism.`,
+    answer6: `Manne argues that misogyny is better described as a social condition than as a feature of individual personality. While someone's ideas or actions are misogynist when they align with or perform schema that control the behavior of women, it does not follow that such people must have a fundamental hatred towards women as people.`,
+    answer7: `Manne differentiates sexism and misogyny according to their functions in patriarchal societies:
+Sexism is the ideological aspect embedded in patriarchy. Its role is to validate and justify male dominance by constructing gender roles and ideologies as fundamental or natural.
+Misogyny serves as the enforcement arm of patriarchal societies. It punishes the women who are resistant or do not comply with patriarchal ideals.`,
   },
   {
-    id: 1,
-    answer:
-      "Stallman's main argument against software ownership revolves around the negative societal impacts it can have. He contends that proprietary software, which is owned and controlled by a single entity, creates several harmful effects. Firstly, it can lead to fewer people using the program due to its cost, resulting in reduced innovation and economic growth. Secondly, users are unable to adapt or fix the program themselves, leading to frustration and inconvenience. Lastly, other developers are unable to learn from or build upon the program, stifling innovation in the industry. Stallman advocates for free and open-source software, which allows users to freely use, study, modify, and distribute the software, fostering collaboration and innovation in the digital realm.",
+    answer1:" Glaucon insists that Socrates speak the truth that fairness stands on its own merits, and not because we fear punishment or concern for other people's opinions towards us. Glaucon thinks that individuals are as honest as the need makes them, and that the Ring of Gyges exists to demonstrate that everyone would be evil when assured that they would never be caught.",
+    answer2:
+      `1.    Moral considerations approach: Ethical considerations require only ethical considerations (such as justice or obligation).
+
+       Prudential approach: Being moral benefits oneself, so it can be justified through self-interest.`,
+    answer3:`Five theories of well-being and their summaries
+
+Hedonism: Well-being consists of pleasure (or maybe two things: pleasure and the absence of pain).
+Life satisfaction theory: What’s good for a person is to be satisfied with the conditions of her life overall.
+Desire satisfaction theory: What is good for us is good for us because it satisfies a desire or preference that we have, and well-being consists of overall desire satisfaction.
+Eudaimonism: Well-being is defined in terms of nature fulfillment, living well insofar as you fulfill your nature as a human being or your individual nature.
+Value fulfillment theory: You achieve well-being to the extent that you realize your values in your life.`,
+answer4:`Psychological evidence linking morality to well-being:
+•    Hedonism: Kindness and gratitude increase happiness.
+•    Overall life satisfaction: Helping others causes happiness
+They wish to assist, and allowing them to assist makes them happy.
+•    Eudaimonism: Morality strengthens social bonds, fulfilling our need to belong.
+•    Realizing values: Being right aligns personal beliefs with action, making life better.`,
+
+
+answer5: `Generally, yes—studies show moral actions often increase happiness and fulfillment. However, morality may not always maximize personal well-being in extreme cases.`,
+
+
+answer6: `Partially, but he does demonstrate that morality and happiness normally accompany each other. Nevertheless, he fails to demonstrate that fairness beats unfairness in all situations.`,
+
+answer7: `It connects philosophy with psychology, examines significant issues regarding ethics, considers various perspectives regarding right and wrong and happiness, and encourages thoughtful consideration regarding why ethics matters.`,
   },
   {
-    id: 3,
-    answer:
-      "There is a group of White hat hackers, who take up jobs in cybersecurity to keep and protect important and valuable data from being lost or stolen. The white hat hackers are most times on the safe side of the Fifth Amendment and they can avoid the traps of self-incrimination. According to the Fifth Amendment, a person is immune from the obligation of being a witness against themselves in a criminal case, hence they are allowed not to talk if they do not want to. When authorized and working within the limits of the law, white hat hackers are not committing criminal acts and therefore are not at risk of self-incrimination.",
+  answer1: `Confucius (551 BC–479 BC) was one of the Chinese thinkers. Confucius' teachings are located in the Analects, having practical quotes and deeds, such as how to behave during dinner or honoring your parents. Confucius spent much of the time discussing living day by day, essentially saying, "How are you living?"`,
+  answer2: `The "fragmented world" discusses life as an alternating mixture of unexpected experiences influenced by our own emotions. Our response—all of a sudden—are happiness, rage, and sorrow. Through rituals, we can turn these reactions around and make them more harmonious and gracious ones, and more effectively manage our shifting moods.`,
+  answer3: `Rituals are thinks we do everyday to do something good.
+            Example 1: I close down my laptop at the end of my day, wipe down my desk.
+            Example 2: Each morning, I get up to get some coffee. Reason so that I can wake up early.`,
+
+
+answer4:    `An "as-if world" is one that we opt to perceive the world as being, at least temporarily, through rituals. When we "act as if" we were another person, we create opportunities for change. These rituals help us get better, as we learn good habits and change them over time.`,
+
+answer5:   `They are little acts we perform to be courteous, demonstrating respect and equality—a sign of "as-if" between social classes. Repeating them makes good behavior, and converting those temporary payoffs into habits that last.`,
+
+answer6:    `Confucius questioned the trend to search for a constant "true self." Our identity is something he thought occurred as we experience and practice. Rather than identifying and keeping up with one constant label about ourselves, he advocated applying virtues through conscious activities on an on-going basis. I believe this concept because it promotes active improvement rather than constant focus on fixed qualities.`,
+
+answer7: `This article is really interesting because it’s helped me learn a lot about myself. For instance, I used to think I was a caffeine addict, so I had to wake up early and get coffee or my head would hurt. But I never realized that the ritual of getting coffee itself was actually making me wake up early, which is a good habit!`,   
   },
   {
-    id: 2,
-    answer:
-      "Surge pricing is a pricing strategy in which a company charges customers more for a product or service during periods of high demand. Uber, a ride-sharing company, uses surge pricing to increase fares during peak hours or when demand for rides is high. Surge pricing has been criticized by some as being unfair and unethical. Critics argue that surge pricing takes advantage of customers who are in need of a ride and have no other option but to pay the inflated fare. Additionally, critics argue that surge pricing can lead to discrimination, as it can make it more difficult for low-income riders to afford a ride during peak hours.Uber has defended its use of surge pricing, arguing that it is necessary to ensure that there are enough drivers on the road to meet demand. Uber also argues that surge pricing helps to keep fares low during off-peak hours. But I beleive it is unethical.",
+    answer1: `Kant's Most Significant Ethical Principle are called the Categorical Imperative.
+
+O'Neill discusses the Formula of the End-in-Itself.
+
+Treat people like you would like to be treated, as significant people who have their own ambitions. Don't treat them as means for you to obtain what you need.`,
+
+answer2:  `A maxim is the central idea or purpose behind doing something. In Kant’s theory, morality is evaluated by examining if the maxim respects others as ends, rather than mere tools or means.`,
+
+answer3: `Means: Engaging someone in your plans or activities with their clear, informed consent. This is ethically permissible.
+Example: When you hire a tutor to teach you mathematics, both individuals participate willingly, and both benefit from the arrangement.
+
+ 
+
+Mere Means: Utilizing someone without their genuine consent—typically utilizing deception or coercion—thus not valuing their freedom of choice.
+Deception Example: Selling a defective smartphone without disclosing its issues. The buyer is deceived and thus is not able to consent appropriately.
+
+Coercion Example: A manager coerces an employee into accepting poor work conditions by threatening unfair dismissal, thus presenting them with no other choice.`,
+
+ 
+
+answer4:  `Deception prevents actual agreement, which is treating individuals merely as means. Tricked individuals do not comprehend your true intention, so they feel like objects rather than precious people. Fake promises are wrong because it deprives individuals of their freedom and capacity for consensual agreements.`,
+
+answer5: `Assisting others in achieving happiness and success.
+
+ Example: Donating to an charity.
+
+
+It is a moral obligation because it encourages people to help others.`,
+
+ 
+
+answer6: `Struggles to explain unplanned or collective action (such as social movements).
+
+Thinks less about overall outcomes.
+
+
+Broad scope—assesses all actions by consequences. 
+
+
+Often impractical due to complexity in predicting outcomes. Capable of letting others be in exchange for greater bliss, perhaps objectifying people like objects.`,
+
+
+answer7: `I think it was a good read cause it took me back to last year when i took the ethical course under your instruction.`,
   },
   {
-    id: 2,
-    answer:
-      "In Azerbaijan where they have serious implications and where there is no space for ethical discussions for such an issue that comes from the Facebook's wave that allows users to make several pages with fake likes. The act of working with fake likes on several Facebook groups or pages that represent political and non-political topics may pose a serious threat to democratic societies, in general, and is a blow as far as independent media are concerned. Mark Zuckerberg's company has recognized and announced trying to fix the bug, as well as vowed to crack down on abuses on the platform by disconnecting multiple networks linked to coordinated inauthentic behavior.",
+    answer1: `The singer's general notion is that if we can prevent something bad from being done without sacrificing something worthwhile, then we ought to. For Bangladesh, he reformulates this to read that we ought to prevent something extremely bad from being done without sacrificing something of moral worth.`,
+    
+    answer2: `The drowning child illustrates how we typically believe in doing good to others when doing so does not involve much to us in return—such as rescuing a child even if we become wet.`,
+
+    answer3: `We ought to alleviate poverty and hunger if we are able to do so with ease, so says the singer. Famine relief is something to be done, not something generous, and believes we ought to donate until doing so no longer means much to us.`,
+
+    answer4: `Being distant does not alter what we must do. In an interconnected world, we can assist far-off people just as much, and we have to view all pain in the same way.`,
+
+    answer5: `Having other individuals to assist does not take away from our responsibility. Even if others are present, we would attempt to save a child drowning. We have to act even if others are doing nothing.`,
+
+    answer6: `I do not anticipate a radical transformation, but I am certain to implement certain aspects of it.`,
+    answer7: `This article is intriguing because it presents a diverse perspective on ethical dilemmas and explains certain reasons why individuals engage in actions that are clearly morally reprehensible.`,
   },
   {
-    id: 1,
-    answer:
-      "Among the several reasons behind the downfall of the Terra ecosystem including the fall of LUNA and UST tokens, one factor was the implementation of unstable algorithmic stablecoins, specifically UST. The fall of the algorithm to maintain its peg to the US dollar became one of the reasons for one token losing stability. Moreover, the regulatory issues without clarity and the absence of a regulatory framework within the cryptographic space, which really radically hurt the ecosystem. The short-lived fortunes of the coins showed that other DeFi protocols are also prone to such vulnerabilities, which will give a direction to a more comprehensive and integrated approach to risk management in the future. In general, The combination of technological, legislative and market aspects led by the ecosystem of Terra getting extinct.",
+    answer1: `Nietzsche (1844-1900) was a German philosopher who disrupted conventional thinking about right and wrong and religion. He wrote influential books like Thus Spoke Zarathustra and On the Genealogy of Morals. He encouraged people to think for themselves, wasn't Christian nor was he a nationalist, and believed that life should be guided by art and philosophy. In spite of personal problems and mental collapses, his work continues to have a profound impact—though later misrepresented by his sister and exploited by the Nazis and others.`,
+
+    answer2: `A genealogy is Nietzsche’s way of tracing how modern values developed historically, especially through religion and social changes. In his Genealogy of Morals, he shows how morality evolved from power dynamics, psychological shifts, and historical events—not eternal truths. He focuses on how Christian values came from weakness and resentment, not strength.`,
+
+    answer3: `Nietzsche claims that "bad conscience" emerged when humans, previously wild and instinctual, were able to reside in society. Because they couldn't act upon their natural impulses, they turned inward, and this created a sense of guilt, self-berating, and a psychological "sickness." This internalized strife, although producing the soul, was a debilitating alienation from animalistic past.`,
+
+    answer4: `Noble morality derives from strength and self-confidence in oneself—it affirms life and values on the basis of individual qualities. Similar to Egals
+It originates with weakness and anger. It measures the good by weighing itself against the powerful. It says "no" to others rather than "yes" to itself like a flock of sheep.`,
+
+    answer5: `Nietzsche says slave morality starts when oppressed people, like early Christians, are denied power or revenge. Instead of acting, they turn inward and create values that reject their oppressors. They call the powerful “evil” and themselves “good.” This morality isn’t about self-worth, but about flipping the values of those who hurt them—making weakness a virtue and strength a sin. It’s a reactive way of creating meaning from oppression.`,
+
+    answer6: `Nietzsche states that contemporary morality originates in instincts blocked and redirected inward (bad conscience) and in the resentment of weak individuals (ressentiment). This generated Christian values promoting guilt and neglecting natural desires, which originated through feeling weak, not from goodness.`,
+
+    answer7: `I really like this article because it shows how one philosophy can be interpreted in totally different ways by different people. It makes you think about how ideas get twisted depending on who’s reading them or what their agenda is. One major thing it highlights is how Nietzsche’s work was misunderstood and misused, even though he was actually against the things people claimed he supported. It reminds you to question what you hear and look deeper into where ideas really come from.`,
   },
   {
-    id: 3,
-    answer:
-      "The ACM (Association for Computing Machinery) Code of Ethics and Professional Conduct seems to be closer to virtue ethics rather than utilitarian ethics as it is more about developing virtuous qualities of being and acting among professionals in the field of computing. Virtue ethics focuses on building moral character and the significance of such virtues like truthfulness, uprightness, and fairness. In the area of computer science, these traits play a crucial role in ensuring confidence, dependability as well as answerability during technology design and deployment. Furthermore, innate values and principles are also highly regarded by virtue ethics which is quite similar to ACM’s aim of nurturing good conduct that benefits both individuals and society at large. However, utilitarianism strives to maximize overall happiness or utility which does not always go hand in hand with specific ethical concerns and obligations of IT practitioners.",
+    
   },
   {
-    id: 2,
-    answer:
-      "Robots should be considered the property of humans due to the fundamental nature of their creation. As their creators, humans have a special relationship with robots akin to ownership, similar to how we own other forms of technology. This relationship implies a responsibility to care for and maintain these creations, ensuring their proper functioning and alignment with human values. Treating robots as property also allows for clearer legal and ethical frameworks regarding their use and protection, ultimately benefiting both humans and artificial intelligence in a structured and regulated manner.",
+   answer1: `Plato describes people born chained in a cave, only able to see shadows on a wall cast by a fire behind them.`,
+
+  answer2: `They believe the shadows are real because they’ve never seen the actual objects.`,
+
+  answer3: `A freed prisoner sees the real objects and, eventually, the outside world and sun—realizing the shadows were illusions and discovering a higher truth.`,
+
+  answer4: `The other prisoners resist and even wanted to kill the returnee for challenging their beliefs.`,
+
+  answer5: `Yes—Plato suggests we should seek the truth beyond appearances.`,
+
+  answer6: `Plato argues that sensory experience shows only imperfect copies of true reality. Real knowledge comes from philosophical reasoning and understanding the forms.`,
+
+  answer7: `I think this article is cool because it shows that even when we see or think something is true, we should still question it.`,
   },
 ];
 

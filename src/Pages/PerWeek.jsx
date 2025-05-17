@@ -7,62 +7,72 @@ import { essay, questions, answers } from "../Constants";
 
 function PerWeek() {
   const { id } = useParams();
-
-  // Convert id to a number
   const essayId = parseInt(id, 10);
 
-  // Find the essay with the matching id
+  // Get data for current week
   const selectedEssay = essay[essayId];
-  const selectQuestions = questions[essayId - 1];
-  const selectAnswer = answers[essayId - 1];
+  const selectQuestions = questions[essayId - 1] || {};
+  const selectAnswer = answers[essayId - 1] || {};
+
+  // Generate array of 1-7 for questions/answers
+  const qaPairs = Array.from({ length: 7 }, (_, i) => i + 1);
 
   return (
-    <>
-      <div className="mt-40">
-        {" "}
-        <motion.section
-          variants={staggerContainer()}
-          initial="hidden"
-          whileInView="show"
-          viewport={{ once: true, amount: 0.25 }}
-          className={`/${styles.padding} max-w-7xl mx-auto relative z-0`}
-        >
-          <div>
-            <h2 className={`${styles.sectionHeadText} `}>
-              Week {essayId + 1}, Essay
-            </h2>
-            <p className={`${styles.sectionSubText} mt-5`}>
-              {selectedEssay.content}
-            </p>
-          </div>
-          {essayId > 0 ? (
-            <div className="pt-8">
-              <h2 className={`${styles.sectionHeadText} `}>
-                Week {essayId + 1}, Questions
-              </h2>
-              <p className={`${styles.sectionSubText} mt-5 mb-8`}>
-                {selectQuestions.question1}
-              </p>
-              <p className={`${styles.sectionSubText} mt-5 mb-8`}>
-                {selectQuestions.question2}
-              </p>
+    <div className="mt-40">
+      <motion.section
+        variants={staggerContainer()}
+        initial="hidden"
+        whileInView="show"
+        viewport={{ once: true, amount: 0.25 }}
+        className={`${styles.padding} max-w-7xl mx-auto relative z-0`}
+      >
+        <div>
+          <h2 className={styles.sectionHeadText}>
+            Week {essayId + 1}, Journal
+          </h2>
+          <p className={`${styles.sectionSubText} mt-5 whitespace-pre-line`}>
+            {selectedEssay.content}
+          </p>
+        </div>
 
-              <p className={`${styles.sectionSubText} mt-5 mb-8`}>
-                {selectQuestions.question3}
-              </p>
-              <div>
-                <h2 className={`${styles.sectionHeadText} mt-8 mb-9`}>
-                  Answer for Question {selectAnswer.id} .
-                </h2>
-                <p className={`${styles.sectionSubText} mt-5 mb-8`}>
-                  {selectAnswer.answer}
-                </p>
-              </div>
-            </div>
-          ) : null}
-        </motion.section>
-      </div>
-    </>
+        {essayId > 0 && (
+          <div className="pt-8">
+            <h2 className={styles.sectionHeadText}>
+              Week {essayId + 1}, Questions & Answers
+            </h2>
+            
+            {qaPairs.map((num) => {
+              const question = selectQuestions[`question${num}`];
+              const answer = selectAnswer[`answer${num}`];
+              
+              return (
+                question && (
+                  <div key={num} className="mt-8">
+                    <h3 className={`${styles.sectionSubText} font-semibold`}>
+                      Question {num}
+                    </h3>
+                    <p className={`${styles.sectionSubText} mt-2 mb-4 whitespace-pre-line`}>
+                      {question}
+                    </p>
+                    
+                    {answer && (
+                      <>
+                        <h3 className={`${styles.sectionSubText} font-semibold mt-4`}>
+                          Answer {num}
+                        </h3>
+                        <p className={`${styles.sectionSubText} mt-2 mb-8 whitespace-pre-line`}>
+                          {answer}
+                        </p>
+                      </>
+                    )}
+                  </div>
+                )
+              );
+            })}
+          </div>
+        )}
+      </motion.section>
+    </div>
   );
 }
 
